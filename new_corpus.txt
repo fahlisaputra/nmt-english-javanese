@@ -1,0 +1,1018 @@
+No	Ora
+No	Mboten
+In	Ing
+In	Ning
+Yes	Enggeh
+Eat	Mangan
+Eat	Dahar
+Eat	Dhahar
+For	Kanggo
+Are	Sing
+That	Iku
+Good	Apik
+Room	Kamar
+Cheap	Mirah
+Hotel	Hotel
+Water	Banyu
+Masive	Gede
+Morning	Esuk
+The hotel	Hotel iki
+Very Good	Apik banget
+Hot water	Banyu anget
+The hotel is very cheap	Hotel punika mirah banget
+That hotel has 20 floors	Hotel iku nduweni 20 lantai
+The hotel is fully booked	Hotel wis dipesen kanthi lengkap
+Mr President is in room 13	Pak Presiden ana ing kamar 13
+Check in starts at 12 noon	Priksa ing diwiwiti jam 3 sore
+Horizon hotel has 20 floors	hotel horizon nudweni 20 lantai
+Horizon Hotel provides beer	hotel horizon nyediakno bir
+The hotel is a dream guard.	Hotel minangka pengawal impen.
+This hotel has robot waiters	Hotel iki nduweni pelayan robot
+There is a sauna in the hotel	Ana sauna ing hotel
+The rating of the hotel is bad	Rating hotel iku ala
+The hotel does not allow pets.	Hotel iki ora ngijini binatang peliharaan.
+The hotel concept is industrial	Konsep hotel yaiku industri
+The hotel service was very good	Layanan hotel apik banget
+The rating of the hotel is good	Rating hotel apik
+horizon hotel provide hot water	hotel horizon nyediakno banyu anget gawe adus
+Yes, there is a TV in the room.	Enggeh, ana TV ing kamar.
+The hotel has more than 50 rooms	Hotel iki nduweni luwih saka 50 kamar
+The hotel is built on a mountain	Hotel iki dibangun ing gunung
+That hotel is close to a landfill	Hotel iku cedhak karo TPA
+rating system to indicate quality	sistem rating kanggo nuduhake kualitas
+This hotel is on the edge of town	Hotel iki ana ing pinggir kutha
+the floor in hotel horizon masive	lantai ning hotel horizon iku gede banget
+This is a smoke-free environment.	Hotel iki lingkungan bebas asap rokok.
+There are spa services for guests	Ana layanan spa kanggo tamu
+This hotel has beautiful sea views	Hotel iki nduweni pemandangan segara sing apik
+NOVOTEL hotel rooms are soundproof	Kamar hotel sing kedap swara
+Yes, you can check-in at any time.	Enggeh, sampeyan bisa mriksa-in kapan wae.
+The Sun Hotel is the nearest hotel	Hotel Sun minangka hotel paling cedhak
+There is a shelf to store luggage.	Ana rak kanggo nyimpen koper.
+The room is very bright and sunny.	Kamar iki cahya lan padhang banget.
+Their menu includes local cuisine.	Menu kasebut kalebu masakan lokal.
+They have many snacks on the menu.	Padha duwe akeh cemilan ing menu.
+Yes, we have 24-hour room service.	Enggeh, kita duwe pelayanan kamar 24 jam.
+Is there a guarantee 3 times a day?	Hotel Solaris Restoran nyedhiyakake panganan sedina.
+The hotel parking lot is very small	Parkir hotel cilik banget
+Hotel Surya looks crowded on Sundays	Hotel Surya ketok rame ing dino Minggu
+Hotel Surya looks crowded on Sundays	Hotel Surya ketok rame ing dino Minggu
+The hotel has an area of 50 hectares	Hotel iki nduweni area 50 hektar
+The bathroom has quality toiletries.	Jedhing wis kualitas toiletries.
+There is a shelf to store suitcases.	Ana rak kanggo nyimpen koper.
+You can enjoy your meal by the pool.	Sampeyan iso mangan ing pinggir kolam renang.
+Horizon Hotel has VIP and VVIP rooms	hotel horizon nduwe ruangan vip lan vvip
+Yes, there is a minibar in the room.	Enggeh, ana minibar ing ruangan.
+Food at Danur Hotel is very delicious	Panganan ing Hotel Danur enak banget
+This hotel can be found on Google map	Hotel iki bisa ditemokake ing peta Google
+Food at Danur Hotel is very delicious	Panganan ing Hotel Danur enak banget
+Banyuwangi tourism has many homestays	Wisata Banyuwangi akeh panggon nginep
+We allow pets with some requirements.	We ngidini pets karo kahanan tartamtu.
+The room has plenty of storage space.	Kamar iki akeh panyimpenan.
+hotel horizont have 3 lift for guests	hotel horizon nduweni 3 lift sing digawe pengunjung
+Horizon Hotel sells food in the lobby	hotel horizon dodolan panganan ing lobi
+Breakfast is available 06:00 - 10:00.	Sarapan kasedhiya 06:00 - 10:00.
+Hotel Savana has a high internet speed	Hotel Savana duwe kacepetan Internet sing dhuwur
+What facilities do Solaris Hotel have?	Solaris Hotel duwe pusat fitness kanthi pelatih pribadi.
+Rooms at the Ibis Hotel are very small	Kamar ing Hotel Ibis cilik banget
+Summers here tend to be hot and sunny.	Musim panas ing kene cenderung panas lan panas.
+Rooms at Ibis Hotel have a small size.	Kamar di Hotel Ibis memiliki ukuran yang kecil.
+The hotel is 2 km from the city center	Hotel iki 2 km saka pusat kutha
+This hotel room has a private balcony.	Kamar hotel iki nduweni balkon pribadi.
+The room facilities are very complete.	Fasilitas kamar lengkap banget.
+the view in hotel horizon is very nice	pemandangan ning hotel horizon iku apik nemen
+horizont hotel have a lion as a mascot	hotel horizon nduweni maskot sing bentuk e singo
+Hotel is a temporary happiness museum.	Hotel minangka Museum Kesenangan sementara.
+The time required is around 45 minutes	Wektu sing dibutuhake kira-kira 45 menit
+Yes, there is a hairdryer in the room.	Enggeh, ana pengering rambut ing ruangan.
+Dunkin Hotel Service is very satisfying	Layanan Hotel Dunkin maremake banget
+Dunkin Hotel Service is very satisfying	Layanan Hotel Dunkin maremake banget
+The view of the hotel is very beautiful	Pemandangan hotel apik banget
+This room has breakfast in bed service.	Kamar iki duwe sarapan ing layanan amben.
+the lobby in hotel horizon is very huge	hotel horizon duwe lobi sing gede
+The bathroom in the lobby is very clean	jeding ning lobi ning hotel horizon iku resik nemen
+A wise tourist staying at a wise hotel.	Wisatawan sing wicaksana tetep ing hotel sing wicaksana.
+What stands out about the Solaris Hotel?	Layanan pembersihan kamar pancen responsif.
+The hotel is located on the edge of town	Hotel iki dumunung ing pinggir kutha
+Prices per night start from Rp. 277,000.	Harga saben wengi wiwit saka Rp. 277,000.
+fees that guests must pay for their stay	biaya sing tamu kudu mbayar kanggo tetep
+Hotel Oval is a highly recommended hotel	Hotel Oval minangka hotel sing dianjurake banget
+The room has a view of the green garden.	Kamar nduweni tampilan taman ijo.
+There is a comfortable sofa in the room.	Ana sofa nyaman ing kamar.
+The sink at the Niji hotel is very clean	Sink ing hotel Niji resik banget
+The sink in the Niji hotel is not decent	Sink ing hotel Niji ora tepat
+Hotel Lorant does not have a prayer room	Hotel Lorant ora duwe mushola
+At the hotel, you are a respected guest.	Ing hotel, sampeyan dadi tamu sing dihormati.
+Hotel is the center of priceless beauty.	Hotel minangka pusat kaendahan sing ora larang regane.
+Yes, you can request a non-smoking room.	Enggeh, sampeyan bisa njaluk ruangan sing ora ngrokok.
+Yes, you can request a room with a view.	Enggeh, sampeyan bisa njaluk kamar kanthi tampilan.
+Hotel Mesra is a shady hotel in Samarinda	Hotel Mesra iku sawijining hotel teduh ing Samarinda
+All international tourists love the hotel	Kabeh turis internasional seneng hotel
+You can order food through a special app.	Sampeyan bisa pesen panganan liwat aplikasi khusus.
+Their customer service never disappoints.	Layanan pelanggan ora tau ngecewake.
+The bathroom has a shower with hot water.	Ing jedhing wis padusan karo banyu panas.
+horizon hotel has a nice and large garden	hotel horizon duwe taman sing apik lan luas
+Hotel service is a symphony of happiness.	Layanan Hotel minangka simfoni rasa seneng.
+The hotel is a warm hug after a long day.	Hotel minangka ngrangkul anget sawise sedina.
+We can help you book tickets for the show.	Kita bisa mbantu pesen tiket kanggo pertunjukan.
+Luxurious comfort and world-class service.	Kenyamanan mewah lan layanan kelas donya.
+Their menu includes international cuisine.	Menu kasebut kalebu masakan internasional.
+There is a safe in the room for valuables.	Ana brankas ing kamar kanggo barang-barang berharga.
+Be careful when walking on slippery floors	Ati-ati nalika mlaku ing lantai sing lunyu
+Bringing pets to the hotel is not allowed.	Nggawe pets menyang hotel ora diidini.
+Of course, in Malang the famous Atria Hotel	Mesthi, ing Malang Hotel Atria sing misuwur
+Of course, the password is on my back board	Mesthi wae sandhi ing papan mburi
+this hotel has check out time until 12 noon	hotel iki wis mriksa metu wektu nganti 12 noon
+The floor in the hotel bathroom is slippery	Lantai ing kamar mandi hotel lunyu
+the service in hotel horizon is very polite	pelayanan ning hotel horizon iku sopan nemen
+In a hotel room, dreams and reality united.	Ing kamar hotel, impen lan kasunyatan bersatu.
+Hotel is your secret guard during the trip.	Hotel minangka pengawal rahasia sajrone perjalanan kasebut.
+Hotels are schools of valuable experiences.	Hotel minangka sekolah pengalaman sing terkenal.
+The hotel is an adventure dubbed "comfort."	Hotel minangka petualangan sing diarani "kenyamanan."
+The swimming pool at the hotel is very large	Kolam renang ing hotel gedhe banget
+There is a Ubud Cottage Hotel in Sigura-Gura	Ana Hotel Ubud Cottage ing Sigura-Gura
+Hotel Novotel is the best hotel in this city	Hotel Novotel minangka hotel paling apik ing kutha iki
+The 24-hour room service is very convenient.	Layanan kamar 24 jam praktis banget.
+Their customer service is very professional.	Layanan pelanggan banget profesional.
+The Hotel room service is available 24 hours	pelayanan kamar ning hotel horizon iku onok 24 jam
+Every hotel room is a priceless art gallery.	Saben ruangan hotel minangka galeri seni sing ora ana regane.
+Yes, we offer free parking for hotel guests.	Enggeh, kita duwe parkir gratis kanggo tamu hotel.
+Yes, at Hotel Atria provides laundry services	Enggeh, ing Hotel Atrria nyedhiyakake layanan umbah-umbah
+Hotel Surya provides airport shuttle services	Hotel Surya menyediakan layanan antar jemput bandara
+There is a valet parking service at the hotel	Ana layanan parkir valet ing hotel
+Hotel rates are very affordable for families.	Tingkat hotel terjangkau terjangkau kanggo kulawarga.
+Grand Dafam Q Hotel Banjarbaru has 187 rooms.	Hotel Grand Dafam Q Banjarbaru duwe 187 kamar.
+Hotel is a bridge between adventure and calm.	Hotel minangka jembatan ing antarane petualangan lan tenang.
+Free Wi-Fi is available throughout the hotel.	Wi-Fi gratis ana ing kabeh bagian hotel.
+Choice of rooms at Hotel Sanur is quite varied	Pilihan kamar ing Hotel Sanur lumayan akeh
+The hotel has a beautiful and shady atmosphere	Hotel iki nduweni swasana sing apik lan teduh
+Choice of rooms at Hotel Sanur is quite varied	Pilihan kamar ing Hotel Sanur lumayan akeh
+From hotel to Alun - Alun taken in ten minutes	Saka Hotel menyang Alun - Alun dijupuk ing sepuluh menit
+Right, Legian Hotel is close to Seminyak Beach	Right, Legian Hotel cedhak karo Pantai Seminyak
+service to assist guests with special requests	layanan kanggo ngewangi tamu karo penjalukkan khusus
+You can contact our reservation team for that.	Sampeyan bisa hubungi tim reservasi kanggo iku.
+Rooms at Sanur Hotel have luxurious facilities	Kamar di Hotel Sanur memilki fasilitas yang mewah
+Guests can enjoy laundry and ironing services.	Tamu iso nikmati layanan binatu lan setrikanan.
+Additional breakfast costs IDR. 190,000/guest.	Biaya sarapan tambahan IDR. 190.000 / tamu.
+You can order delicious food via room service.	Kowe iso mesen panganan enak liwat layanan kamar.
+Yes, there is a desk or workspace in the room.	Enggeh, ana papan meja utawa ruang kerja ing ruangan.
+Can, we can pay hotel fees using bank transfers	Bisa, kita bisa mbayar biaya hotel nggunakake transfer bank
+No, but I was graduated in middle school there.	Ora, nanging aku wisuda wektu smp ing kana.
+In my opinion further if you go to the terminal	Ing mratelakake panemume, yen sampeyan menyang terminal
+the process by which guests arrive at the hotel	proses sing tamu teka ing hotel
+These hotel services are available on Traveloka	Layanan hotel iki kasedhiya ing Traveloka
+The hotel restaurant has a romantic atmosphere.	Restoran hotel iki nduweni swasana romantis.
+This hotel room is very secure and comfortable.	Kamar hotel iki banget aman lan nyaman.
+This room has easy access to the swimming pool.	Kamar iki nduweni akses gampang menyang kolam renang.
+The cake in the hotel restaurant are very sweet	Kue ing restoran hotel manis banget
+The Lorant hotel lobby has a beautiful fountain	Lobi hotel Lorant nduweni banyu mancur sing apik
+Horizon Hotel also rents vehicles for traveling	hotel horizon nyewano mobile gawe ngelencer
+Hotel rooms are your personal adventure canvas.	Kamar hotel minangka kanvas petualangan pribadi sampeyan.
+Hotel is a place where curiosity meets comfort.	Hotel minangka papan kanggo penasaran.
+Forward Hotel is located in a busy city center.	Maju Hotel dumunung ing pusat kutha sing sibuk.
+Hotel Mawar provides a fairly large sports area	Hotel Mawar nyedhiyakake area olahraga sing cukup gedhe
+Yes, there is a full-length mirror in the room.	Enggeh, ana pangilon dawa ing kamar.
+Yes, we provide 24-hour airport shuttle service.	Enggeh, kita nyedhiyakake layanan antar-jemput bandara 24 jam.
+Yes, we are committed to eco-friendly practices.	Enggeh, kita setya marang praktik sing ramah lingkungan.
+Outdoor swimming pool with children's play area.	Kolam renang ruangan karo area dolanan bocah.
+The prayer room at the Gasaki hotel is very good	Ruang sholat ing hotel Gasaki apik banget
+horizon hotel have a policy to check out at 1 am	hotel horizon nduwe peraturan cekout jam siji awan
+At the hotel, you can feel like a queen or king.	Ing hotel, sampeyan bisa rumangsa kaya ratu utawa raja.
+Some hotel rooms offer beautiful mountain views.	Beberapa hotel nawarno pemandangan gunung sing apik.
+Yes, you can adjust the temperature in the room.	Enggeh, sampeyan bisa nyetel suhu ing ruangan.
+You can try contacting the hotel to confirm this.	Sampeyan bisa nyoba hubungi hotel kanggo konfirmasi iki.
+Yes, the Grand Dafam Syariah Hotel is very clean.	Enggeh, Hotel Grand Dafam Syariah resik banget.
+The minimum age to stay at the hotel is 18 years.	Umur minimal kanggo nginep ing hotel yaiku 18 taun.
+The nearest beach is only a 10-minute drive away.	Pantai paling cedhak mung 10 menit kanthi kendaraan.
+Yes, we have a kids club with various activities.	Enggeh, kita duwe klub bocah kanthi macem-macem kegiatan.
+Attend an art exhibition held in the hotel lobby.	Nekani acara pemeran seni sing diselenggarakno ing lobi hotel.
+You can enjoy your meal on the beautiful terrace.	Sampeyan bisa seneng dhaharan ing teras ayu.
+The in-room breakfast is delicious and enjoyable.	Sarapan ing kamar enak lan nyenengake.
+The mattress in the room is very soft and fluffy.	Kasur ing kamar alus banget lan alus.
+Free breakfast is provided to executive customers	Sarapan gratis diwenehake kanggo para pelanggan eksekutif
+Hotels are valuable seconds among travel seconds.	Hotel minangka detik sing larang ing antarane detik lelungan.
+Hotel is a home for a soul that misses adventure.	Hotel minangka omah kanggo jiwa sing kantun petualangan.
+Hotel Mutiara has a calm and soothing green area.	Hotel mutiara duwe area ijo sing tenang lan sregep.
+Rental fees depending on the facilities you choose	Rega sewa gumantung fasilitas sing sampeyan pilih
+The services in Pearl hotel are very disappointing	Layanan saka hotel Pearl banget kuciwo
+Several hotels in Bali offer beauty salon services	Sawetara hotel ing Bali nawakake layanan salon kecantikan
+Our local guides take us to amazing hidden places.	Tuntunan lokal kita njupuk kita menyang papan sing apik.
+Hotel Rama provides traditional food for breakfast	Hotel Rama nyedhiyakake panganan tradisional kanggo sarapan
+There are Morse Hotels, Aloha Hotels and many more	Ana hotel Morse, hotel Aloha lan liya-liyane
+Historic hotels often have grand interior designs.	Hotel - hotel bersejarah asring nduweni desain interior sing megah
+Staying at this beach resort is a great experience	Nginep ndek resort pantai iki pengalaman sing apik tenan
+As a hotel archive when undesirable things happen.	Minangka arsip hotel nalika kedadeyan sing ora dikarepake.
+You must try the local seafood restaurants nearby.	Sampeyan kudu nyoba restoran panganan laut lokal sing cedhak.
+The local market is a good place to get souvenirs.	Pasar lokal minangka papan sing apik kanggo oleh-oleh.
+Hotel room bookings can be made online or offline.	Pemesanan kamar hotel iso digawe kanthi online utawa offline
+Because this hotel is on the side of the main road	Amarga hotel iki ana ing pinggir dalan gedhe
+The hotel staff is very responsive to guest needs.	Karyawan hotel responsif banget nang kebutuhane tamu.
+The food here is always fresh and of good quality.	Panganan kene tansah seger lan kualitas dhuwur.
+The pillars of the Gasaki hotel are made of marble	Pilar hotel Gasaki digawe saka marmer
+In a hotel room, you can hear historical whispers.	Ing kamar hotel, sampeyan bisa ngrungokake bisik-bisik sejarah.
+Yes, of course this hotel has hot water facilities.	Enggeh, tamtu wae hotel iki nduweni fasilitas banyu panas.
+This hotel offers in-room massage and spa services.	hotel iki nawakaken layanan pijet lan spa ing kamar pengunjung.
+Some hotels provide car rental services for guests.	Sawetara hotel nyediake layanan penyewaan mobil kanggo tamu
+UM dormnitory have a public kitchen and dining room	Asrama UM duwe pawon umum lan area panedhaan.
+Yes, hotels usually ask to show visitors' ID cards.	Enggeh, hotel biasane njaluk nuduhake KTP pengunjung.
+To ensure this, you should contact the hotel first.	Kanggo mesthekake iki, sampeyan kudu ngontak hotel dhisik.
+Breakfast is often included in the hotel room rate.	Sarapan isuk mesti termasuk ing tarif kamar hotel.
+You can take a taxi or walk to the historical site.	Sampeyan bisa njupuk mendhoan utawa lumaku menyang situs sajarah.
+Rent a bicycle at the hotel to explore around town.	Nyewo sepeda ing hotel gawe njelajahi sekitar kutha.
+Stay in a historic hotel with charming architecture	Nginep ing hotel bersejarah sing nduweni arsitektur apik.
+The check-out process typically starts at 12:00 PM.	Proses check-out biasane dimulai ing jam 12:00.
+The location of the Horizon Hotel is very strategic	panggen ning hotel horizon iku strategis banget
+Hotel guests are sailors in the ocean of adventure.	Para tamu hotel yaiku pelaut ing segara petualangan.
+Room service at Seruni Hotel is fast and efficient.	Layanan kamar ing hotel Seruni cepet lan efisien.
+Breakfast at this hotel is very delicious and varied	Sarapan ing hotel iki enak banget lan macem-macem
+The wifi connection at the Ascent hotel is very good	Sambungan wifi ing hotel Ascent apik banget
+The maximum person limit per room at this hotel is 2	Watesan maksimal wong saben kamar ing hotel iki yaiku 2
+Restaurants in Hotel Four Seasons are very delicious	Restoran ing hotel Four Seasons enak banget
+Yes, there are photocopying facilities in this hotel	Enggeh, ing hotel iki ana fasilitas fotokopi
+Hotel tourism can create jobs for local communities.	Pariwista hotel iso nyiptakno lapangan pekerjaan kanggo komunitas lokal.
+It's good enough and very responsible for the 3 star	Cukup apik lan tanggung jawab banget kanggo 3 lintang
+Yes, we have meeting rooms suitable for conferences.	Enggeh, kita duwe ruang rapat sing cocog kanggo konferensi.
+The swimming pool at the hotel is open to the public	Kolam renang ing hotel mbukak kanggo umum
+The hotel has a swimming pool suitable for children.	Hotel iki nduweni kolam nglangi sing cocok kanggo bocah-bocah.
+According to hotel regulations, pets are not allowed	Miturut peraturan hotel, kewan sing di ingu ora oleh di gowo
+The total number of rooms in this hotel is 260 rooms	Gunggunge kamar ing hotel iki ana 260 kamar
+Hotel Golden Tulip provides 24-hour laundry services	Hotel Golden Tulip nyedhiyakake layanan binatu 24 jam
+There are 3 types of rooms at the Golden Tulip Hotel	Ana 3 jinis kamar ing Hotel Golden Tulip
+Their service is very much focused on guest comfort.	Layanan kasebut fokus banget marang kenyamanan tamu.
+Yes, this mosque is opened to the public for anyone.	Enggeh, mesjid iki dibukak kanggo masarakat kanggo sapa wae.
+Hotel is a special stop on an extraordinary journey.	Hotel minangka mandeg khusus ing perjalanan sing luar biasa.
+At the hotel, you are a star in your own trip story.	Ing hotel kasebut, sampeyan minangka bintang ing crita sampeyan dhewe.
+Hotels are lessons about friendliness and happiness.	Hotel yaiku pelajaran babagan kekancan lan rasa seneng.
+The nightly rate for a standard room starts at $100.	Tarif tiap malam kanggo kamar standar dimulai saka $100.
+Bintang Hotel provides broad playground for children	Bintang Hotel nyedhiyakake lapangan dolanan sing gedhe kanggo bocah-bocah
+Yes, there is a safe in the room to store valuables.	Enggeh, ana aman ing ruangan kanggo nyimpen barang sing larang regane.
+Yes, there is an iron and ironing board in the room.	Enggeh, ana papan wesi lan wesi ing kamar.
+Right, of course the Savana Hotel has a swimming pool	Betul, mesthi Hotel Savana duwe kolam renang
+The most haunted hotel in Malang is the Niagara hotel	Hotel sing paling angker ing Malang yaiku Hotel Niagara
+Hotel Santika often offers discounts for single rooms	Hotel Santika kerep nawarake diskon kanggo kamar single
+Hotel rooms must always be clean and well-maintained.	kamar hotel kudu tansah resik lan kerawat dengan apik
+Hotel Santika often offers discounts for single rooms	Hotel Santika kerep nawarake diskon kanggo kamar single
+Hall at Savana Hotel is often used as a wedding venue	Hall ing Hotel Savana asring digunakake minangka papan pernikahan
+Reservations at Hotel Four Seasons can be done easily	Reservasi ing musim papat ing musim bisa ditindakake kanthi gampang
+I enjoyed a comfortable vacation in a five-star hotel	Aku nikmati preian sing nyaman ning hotel bintang lima
+Hotel Saa Nuansa Ngawi is the closest to Ngawi square	Hotel Saa Nuansa Ngawi paling cedhak karo alun-alun Ngawi
+This hotel does not provide free breakfast for guests	Hotel iki ora nyedhiyakake sarapan gratis kanggo tamu
+The average cost of a stay depends on the room booked	Biaya rata-rata tetep gumantung ing kamar sing dipesen
+There are vegetarian and vegan options on their menu.	Ana pilihan vegetarian lan vegan ing menu.
+The room is equipped with a refrigerator and minibar.	Kamar iki dilengkapi kulkas lan minibar.
+Of course the hotel gives discounts at certain times.	Mesthi wae hotel kasebut menehi diskon ing wektu tartamtu.
+Hotel guests are the stars that shine at night night.	Tamu Hotel minangka lintang sing sumunar ing wayah wengi.
+Hotels are home from home when you explore the world.	Hotel saka omah nalika sampeyan njelajah jagad iki.
+Hotel is a place where the adventure begins and ends.	Hotel minangka papan ing ngendi petualangan diwiwiti lan pungkasan.
+The hotel has both indoor and outdoor swimming pools.	Hotel iki duwe kolam renang dalem lan kolam renang luwih.
+The hotel restaurant provides a romantic dinner menu.	Restoran hotel nyediakne menu manganan wengi sing romantis.
+Guests can book sightseeing tours from the reception.	Tamu iso mesen tur wisata saka resepsionis.
+The telephone number of this hotel is +62 341 3302000	Nomer telpon hotel iki yaiku +62 341 3302000
+The restaurant here can be reserved for family events	Restoran ing kene bisa dicadhangake kanggo acara kulawarga
+Some hotel rooms have modern and efficient interiors.	Sebagian kamar hotel nduweni interior sing modern lan efisien
+The food at the Montana Hotel is very tasty and varied	Panganan ing Hotel Montana banget sedhep lan mawarni-warni
+There is also a shuttle service available for visitors	Ana uga layanan antar-jemput sing kasedhiya kanggo pengunjung
+Yes of course you can, please contact the hotel first.	Ya mesthi bisa, hubungi hotel dhisik.
+The resort hotel offers a complete holiday experience.	Hotel resort nawari pengalaman liburan sing komplit.
+Of course, we can help you plan your daily activities.	Mesthi, kita bisa mbantu sampeyan ngrancang kegiatan saben dina.
+This hotel hall can accommodate around 800-1000 people	Hall Hotel iki bisa nampung sekitar 800-1000 wong
+24 Hour Service can order food and drinks at any time.	Layanan 24 Jam bisa pesen panganan lan ombenan kapan wae.
+The special programs provided are climbing and cycling	Program khusus sing diwenehake yaiku climbing lan cycling
+The current condition of the hotel rooms is very good.	Kondisi kamar hotel saiki lumayan apik.
+The atmosphere of the room is very quiet and peaceful.	Swasana kamar banget ayem lan tentrem.
+The hotel is a place that opens the door to happiness.	Hotel minangka papan sing mbukak lawang kanggo rasa seneng.
+Yes, you can request a room with a balcony or terrace.	Enggeh, sampeyan bisa njaluk kamar kanthi loteng utawa teras.
+We spent an exciting karaoke night in the hotel lounge.	Kita ngenteni Karaoke Malam sing apik ing Hotel Lounge.
+you can request for an extra bed at an additional cost.	Sampeyan bisa njaluk amben tambahan kanthi biaya tambahan.
+Quiet hotel atmosphere suitable for a relaxing vacation	suasana hotel sing tenang cocok gawe preian santai
+Yes, our restaurant offers delicious local specialties.	Enggeh, restoran kita nawakake masakan lokal sing enak.
+The bus and train stations are within walking distance.	Stasiun bis lan sepur ana ing jarak mlaku.
+If necessary, hotel reservations can be canceled online	Yen perlu, reservasi hotel bisa dibatalake kanthi online
+Booking hotel rooms online is very easy and convenient.	Mesen kamar hotel online iku gampang lan nyaman banget.
+There are coffee and tea making facilities in the room.	Ana fasilitas nggawe kopi lan teh ing kamar.
+Every hotel room is a story that has not been revealed.	Saben ruangan hotel minangka crita sing durung dicethakake.
+Hotel guests are explorers in the search for happiness.	Para tamu hotel ditampi ing telusuran kanggo rasa seneng.
+Yes, there are blackout curtains or blinds in the room.	Enggeh, ana langsir utawa langsir ireng ing ruangan.
+Yes, there is a coffee maker or tea kettle in the room.	Enggeh, ana produsen kopi utawa ceret ing ruangan.
+Yes, there are blackout curtains or blinds in the room.	Enggeh, ana langsir utawa langsir ireng ing ruangan.
+This hotel is located close to major tourist attractions	Hotel iki manggon cedhak karo papan wisata utama
+Yes, the hotel provides breakfast from 06.00 to 10.00 AM	Iyo, hotel nyedyakake sarapan saka jam 06.00 nganti 10.00 esuk
+Yes, you can make room reservations via the application.	Enggeh, sampeyan bisa nggawe reservasi kamar liwat aplikasi.
+Breakfast at this hotel is always a highlight of the day	Sarapan isuk ning hotel iki mesti dadi inceran bendinane
+Yes, Sense Sunset Seminyak is close to the souvenir shop	Enggeh, Sense Sunset Seminyak cedhak karo toko oleh-oleh
+The local amusement park is a great option for families.	Taman hiburan lokal minangka pilihan sing apik kanggo kulawarga.
+Hotel Whizz offers laundry facilities for dirty clothes.	hotel whizz nawakake fasilitas laundry kanggo klambi reged
+It depends, usually promos are available on certain days	Iku gumantung, biasane promo kasedhiya ing dina tartamtu
+The price for the President Suite room type is 6,000,000	Rega kanggo jinis kamar President Suite yaiku 6.000.000
+We provide laundry services for guests who require them.	Kita nyediakake layanan pencucian pakaian kanggo tamu sing butuhake.
+Horizon Hotel has a building that usually holds concerts	hotel horizon nduwe gedung seng biasane gawe konser
+TRIX HOUSE is the closest hotel to Brawijaya University.	Trix House minangka hotel paling cedhak kanggo Universitas Brawijaya.
+Inside the hotel room, comfort and adventure meet Indah.	Ing njero ruangan hotel, kepenak lan petualangan pertemuan Indah.
+Life is an adventure, and the hotel is its headquarters.	Urip minangka petualangan, lan hotel kasebut minangka markas.
+Hotel is the road to the heart of an unforgettable city.	Hotel minangka dalan menyang ati kutha sing ora iso dilalekake.
+The view of the sea from a happy hotel is very stunning.	Pemandangan segara saka hotel sing seneng banget nggumunke.
+The hotel has an exciting evening entertainment program.	Hotel iki nduweni program hiburan wengi sing seru.
+We really maintain cleanliness and comfort at this hotel	Kita pancene njaga kebersihan lan kenyamanan ing hotel iki
+Yes, there are laundry facilities or services available.	Enggeh, ana kemungkinan fasilitas utawa umbah-umbah sing kasedhiya.
+Yes, there is a refrigerator or mini-fridge in the room.	Enggeh, ana kulkas mini utawa kulkas ing ruangan.
+The strategic location of the Atria Hotel made him famous	Lokasi strategis ing Hotel Atria nggawe dheweke misuwur
+Room A22 is on the 2nd floor and can accommodate 2 people	Kamar A22 ana ing lantai 2 lan bisa nampung 2 wong
+Meal packages with breakfast are usually more economical.	paket panganan karo sarapan biasane luwih gemi
+Comfortable room quality is a priority in hotel in Malang	Kualitas bilik sing nyaman yaiku prioritas ing pariwisata Hotel Malang.
+This hotel restaurant serves delicious vegetarian dishes.	Restoran Hotel iki nglayani sajian vegetarian sing enak.
+The hotel is a 5 star hotel which has complete facilities	Hotel kasebut minangka hotel bintang 5 sing nduweni fasilitas lengkap
+Sharia hotels require visitors to show proof of marriage.	Hotel Syariah mbutuhake pengunjung kanggo nuduhake bukti nikah.
+The password at the hotel is provided per visitor's room.	Tembung sandhi ing hotel diwenehake saben kamar pengunjung.
+Find pet-friendly accommodation for your family vacation.	Nemukno panggonan nginep sing oleh nggowo kewan piaraan gawe liburan karo kaluwarga.
+Golden Tulip Hotel provides free car parking for visitors	Golden Tulip Hotel nyedhiyakake parkir mobil gratis kanggo pengunjung
+The mattresses in the room are fitted with quality linen.	Kasur ing kamar dilengkapi linen kualitas.
+At the hotel, you can sleep under a comfortable roof sky.	Ing hotel, sampeyan bisa turu ing sangisore langit gendheng.
+At the hotel, you are an adventurer who inhabits comfort.	Ing hotel kasebut, sampeyan minangka petualang sing manggon ing comfort.
+Yes, this hotel has a swimming pool available for guests.	Enggeh, hotel iki ana kolam renang sing siap kanggo tamu.
+The hotel has sports facilities such as a fitness center.	Hotel iki nduweni fasilitas olahraga kaya pusat kebugaran.
+Hotel room reservations do not allow not marriage couples	Mesen kamar hotel ora ngidini pasangan sing ora duwe guduk bojone
+Solaris Hotel has a large meeting room for the conference.	Hotel Solaris duwe ruang rapat gedhe kanggo konferensi kasebut.
+the process by which guests leave a hotel after their stay	proses sing tamu ninggalake hotel sawise tetep
+Yes, we provide 24-hour room service for your convenience.	Enggeh, kita nyedhiyakake layanan kamar 24 jam kanggo penak.
+This hotel has a gym facility used for exercise by guests.	Hotel iki nduweni fasilitas gym sing digunakake kanggo olahraga dening para tamu
+Reception accepts payments through bank transfers or cash.	Resepsionis nerima mbayar tagihan liwat transfer bank utawa awis
+The special menu at Danur Hotel tonight is seafood dishes.	Menu spesial di Hotel Danur malam ini adalah hidangan seafood.
+Hotel rates there may vary depending on the booking season	Tarif hotel ing kana bisa beda-beda gumantung saka mangsa pesenan
+The hotel has a meeting room with a capacity of 100 people	Hotel iki nduweni ruang rapat kanthi kapasitas 100 wong
+A hotel guest is a royal guest staying at a modern palace.	A tamu hotel yaiku tamu sing tetep ana ing kraton modern.
+Yes, some rooms have private pool areas that you can book.	Enggeh, ana kamar sing kalebu wilayah kolam renang pribadi sing bisa sampeyan pesen.
+The on-site spa offers relaxing and refreshing treatments.	Spa ing hotel nawari perawatan sing nyenengno lan nyegerno.
+You can rent a boat or jetski on the beach near the hotel.	Kowe iso nyewo prau utawa jetski ing pantai cedek hotel
+Yes, there are USB charging ports or outlets near the bed.	Enggeh, ana port USB USB utawa outlet ing cedhak amben.
+The hotel does not charge a fee when requesting more towels	Hotel ora ngisi ragad nalika njaluk liyane andhuk
+Aria hotel facilities are very complete and well maintained	fasilitas hotel Aria lengkap banget lan kejogo
+Contact the supervisor on duty or the manager of the hotel.	ngehubungi ning pegawai seng kerjo utowo manager hotel iku
+Aston Banua Hotel is one of the best hotels in Banjarmasin.	Hotel Aston Banua minangka salah sawijining hotel paling apik ing Banjarmasin.
+Yes, we can help you organize a tour to that national park.	Enggeh, kita bisa mbantu ngatur tur taman nasional.
+Yes, we have a spa that offers various types of treatments.	Enggeh, kita duwe spa sing nawakake macem-macem jinis perawatan.
+Lucky for you, there's a local cultural festival next week.	Untung wae, minggu ngarep ana festival budaya lokal.
+Our beaches are famous for their white sand and blue water.	Pesisir kita misuwur kanthi pasir putih lan banyu biru.
+We can provide you with a list of experienced local guides.	Kita bisa menehi sampeyan dhaptar pandhuan lokal sing berpengalaman.
+Because the hotel is affordable and has adequate facilities	Amarga hotel iki terjangkau lan nduweni fasilitas sing cukup
+yes of course, we call our crew first, please wait a minute	Ya mesthi wae, kita nelpon kru dhisik, enteni menit
+This is uncertain. You can ask the relevant hotel directly.	Iki ora yakin. Sampeyan bisa takon ing hotel sing gegandhengan.
+A hotel receptionist is a reliable guide in the city world.	Sawijining resepsi hotel minangka pandhuan sing bisa dipercaya ing jagad kutha.
+At the hotel, every guest is a leader on their own journey.	Ing hotel, saben tamu minangka pimpinan dhewe.
+Bintang Hotel has a safe and pleasant children's play area.	Bintang Hotel duwe wilayah dolanan sing aman lan apik.
+Hotel Santosa provides free shuttle services to the station	Hotel Santosa nyedhiyakake layanan anter jemput gratis ing stasiun kasebut
+Guests at a true hotel can enjoy morning yoga by the beach.	Tamu ing hotel sing bener bisa nyenengake Yoga esuk ing pantai.
+There are special food options for guests who are on a diet	Ana pilihan panganan khusus kanggo tamu sing diet
+Yes, there are bathrobes and slippers provided in the room.	Enggeh, ana jubah lan sandal siram sing diwenehake ing kamar.
+Special rooms are also provided for visitors who bring pets	Kamar khusus uga kasedhiya kanggo pengunjung sing nggawa pets
+The most frequently used facility at Hotel Raodah is the spa	Fasilitas seng paling akeh digawe ing hotel raodah yaiku spa
+Unfortunately this hotel does not allow smoking in the room.	Mboten saget, eman e hotel iki ora ngolehi ngrokok ing njero kamar.
+Yes, there is a guide service at the Atanaya Kuta Bali hotel	Enggeh, ana layanan guide ing hotel Atanaya Kuta Bali
+Contact the receptionist via the telephone line in the room.	Hubungi resepsionis liwat saluran telpon ing kamar.
+Hotels are often the venue for business meetings and events.	Hotel seringkali dadi panggonan pertemuan lan acara bisnis.
+We provide a special pick-up service for cruise ship guests.	We nyedhiyani layanan pick-up khusus kanggo tamu kapal pesiar.
+Dunkin Hotel employees are very friendly and help customers.	Pegawai Hotel Dunkin sangat ramah dan membantu para pelanggan.
+Hotel Fusi has a swimming pool with a direct view to the sea	Hotel Fusi memiliki kolam renang dengan pemandangan langsung ke laut
+The restaurant there provides halal food for Muslim visitors	Restoran ing kana nyedhiyakake panganan halal kanggo pengunjung Muslim
+Room prices at this hotel range from IDR 100,000-IDR 200,000	Rega kamar ing hotel iki antara Rp100.000-Rp200.000
+Guest safety is a top priority in the hotel tourism industry	Keamanan tamu iku prioritas utama ing industri pariwisata hotel.
+Hotel Golden Tulip is a modern hotel overlooking Mount Kawi.	Hotel Golden Tulip minangka hotel modern sing madhep Gunung Kawi.
+Hotel is a place where the mystery of the trip was revealed.	Hotel minangka papan ing endi misteri trip kasebut dicethakake.
+Every corner of the hotel is a story that has not been told.	Saben pojok hotel minangka crita sing durung dikandhani.
+The hotel features a fitness facility with modern equipment.	Hotel iki duwe fasilitas kebugaran karo peralatan modern.
+Rooms at Purnama Hotel have a modern and comfortable design.	Kamar ing Hotel Purnama duwe desain modern lan nyaman.
+Restaurants in Hotel Harmoni serves fresh seafood every day.	Restoran ing hotel Harmoni nglayani panganan laut seger saben dinane.
+Yes, this hotel provides breakfast for guests staying there.	Enggeh, hotel iki nyedhiyakake sarapan kanggo tamu sing nginap.
+Yes, this hotel provides free Wi-Fi throughout the property.	Enggeh, hotel iki nyedhiyakake layanan Wi-Fi gratis ing kabeh wilayah hotel.
+Yes, you can request a room with a kitchenette or microwave.	Enggeh, sampeyan bisa njaluk kamar kanthi pawon cilik utawa gelombang mikro.
+The distance of the hotel fusion with the beach is very close	Jarak saka Hotel Fusion Hotel kanthi pantai cedhak banget
+As a security deposit during the visitor's stay at the hotel.	Minangka simpenan keamanan nalika tamu tetep ing hotel.
+The Golden Tulip hotel ballroom has a capacity of 2000 people	Ballroom hotel Golden Tulip nduweni kapasitas 2000 wong
+Hotel Student Park has 64 rooms, each of which has a balcony.	Taman Siswa Hotel duwe 64 kamar, saben wong duwe balkon.
+Yes there is, there is a swimming pool on this hotel rooftop.	Enggeh, ana kolam renang ing rountoop hotel iki.
+The tourists are world explorers, and hotels are their ports.	Wisatawan minangka panjelajah jagad, lan hotel minangka port kasebut.
+Asri Hotel offers family vacation packages at special prices.	Asri Hotel nawakake paket liburan kulawarga kanthi rega khusus.
+Yes, some rooms offer beautiful beach views for you to enjoy.	Enggeh, ana kamar sing ngewangi pemandangan pantai sing apik kanggo sampeyan nikmati.
+The distance from the hotel to the beach is only a few steps.	Jarak hotel iki nang pantai mek beberapa langkah wae.
+Yes, there are complimentary toiletries provided in the room.	Enggeh, ana jamban gratis sing diwenehake ing ruangan.
+Some hotels have exclusive lounges for VIP guests and members	Sebagian hotel nduweni ruwang sante eksklusif kanggo tamu vip lan anggota
+Montana hotel prices are quite expensive but have good service	Rega hotel Montana cukup larang nanging nduweni layanan sing apik
+The facilities at this hotel are very complete and comfortable	Fasilitas ndek hotel iki lengkap banget lan nyaman
+Staycation programs are becoming popular among local tourists.	Program "Staycation" dadi populer ing papan wisatawan lokal
+In general, visitors are required to check-out around 12 noon.	Umume, pengunjung kudu check-out watara jam 12 awan.
+The service provided by the hotel is very good and comfortable	pelayanan seng dikek i hotel iku bagus banget lan enak
+Conduct surveys near tourist attractions to find nearby hotels	Nindakake survey ing cedhak obyek wisata kanggo nemokake hotel sing paling cedhak
+Rainbow hotel has many types of gym equipment that can be used	Hotel pelangi duwe akeh macem alat gym seng iso digawe
+Our heated swimming pool facility is located on the 4th floor.	fasilitas kolam renang banyu anget kita ana ing lantai 4
+s time period when demand for hotel accommodation is very high	wektu nalika dikarepake kanggo akomodasi hotel dhuwur banget
+Reservations can be made online for the convenience of guests.	Reservasi iso digawe online kanggo nggampangake tamu.
+for taxi services can only be given if you have ordered online	Kanggo layanan mendhoan mung bisa diwenehake yen sampeyan wis mrentah online
+Dinner at the hotel restaurant is an unforgettable experience.	Nedha bengi ing restoran hotel minangka pengalaman sing ora bisa dilalekake.
+At the hotel, you can touch the stars from the bedroom window.	Ing hotel, sampeyan bisa ndemek lintang saka jendela kamar turu.
+Restaurants at Sari Rasa Hotel served authentic local cuisine.	Restoran at Sari Rasa Hotel dadi masakan lokal sing asli.
+Yes, valet parking service is available for guest convenience.	Enggeh, layanan valet parkir tansah diakses kanggo kenyamanan tamu.
+The hotel has child-friendly facilities, such as a playground.	Hotel iki duweni fasilitas ramah anak kaya taman mainan.
+The hotel's conference rooms can be used for birthday parties.	Ruwang konferensi ing hotel oleh digunakake kanggo adicara ambal warsa
+With only Rp. 50,000 nett/pax we can enjoy a special pool promo	Kanthi mung Rp 50,000 Nett / Pax, kita bisa duwe promo global khusus
+Attractive family holiday packages are available at this hotel.	Ana paket liburan keluarga sing menarik ing hotel iki.
+The food served is very diverse, both from foreign and domestic	Panganan sing disuguhake maneka warna banget, saka manca lan domestik
+This hotel provides an Indonesian themed breakfast every Sunday	Hotel iki nyedhiyakake sarapan bertema Indonesia saben dina Minggu
+Horizon Hotel has spa rooms specifically for men and women only	hotel horizon nduwe ruangan spa kanggo lanang lan wedok
+Hotel Gunung has a beautiful view to the surrounding mountains.	Hotel Gunung duwe tampilan sing apik kanggo gunung sing ana ing sekitar.
+Rooms at Hotel Thousand have elegant and luxurious decorations.	Kamar ing hotel hotel duwe dekorasi elegan lan mewah.
+Yes, you can book in-room massage services as per your request.	Enggeh, sampeyan bisa pesan layanan pijet ing kamar sesuai pangalembane.
+The check-in process at this hotel typically begins at 3:00 PM.	Proses check-in ing hotel iki biasane dimulai jam 3:00 PM.
+You can book local tours through the hotel's concierge service.	Sampeyan bisa pesen tur wisata lokal liwat layanan concierge hotel.
+You can contact the reception desk to order food at this hotel.	Sampeyan bisa ngontak meja resepsionis kanggo pesen panganan ing hotel iki.
+The hotel has a shuttle service to the nearest shopping center.	Hotel iki nduweni layanan antar-jemput nang pusat belonjo paling cedek.
+Yes, there are extra pillows or blankets available in the room.	Enggeh, ana bantal utawa kemul sing kasedhiya ing ruangan.
+Yes, you can request an extra bed or cot for additional guests.	Enggeh, sampeyan bisa njaluk amben tambahan utawa amben kanggo tamu tambahan.
+You can contact the reception desk to order food at this hotel.	Sampeyan bisa ngontak meja resepsionis kanggo pesen panganan ing hotel iki.
+I stayed at Padma Resort Ubud for 2 nights with my wife and son.	Kulo nginep ing Padma Resort Ubud lawase 2 wengi bareng bojo lan anak kulo.
+Transportation options for the Danur Hotel area are quite varied	Pilihan transportasi kanggo area hotel Danur cukup maneka warna
+Must be accompanied by parents and show personal identification.	Kudu diiringi wong tuwa lan nuduhake identifikasi pribadi.
+When booking a room, the rate submitted includes breakfast rates	Nalika pesen kamar, tarif sing dikirim kalebu tarif sarapan
+The plants and trees in this hotel are truly numerous and varied	Tanduran lan wit-witan ing hotel iki pancen akeh lan maneka warna
+Rates including breakfast are room rates that include breakfast.	biaya dadi siji karo kamar karo mangan isuk
+Yes, the distance of this hotel to Malioboro is only about 7 km.	Enggeh, jarak hotel iki menyang Malioboro mung udakara 7 km.
+Guests at the Cemerlang Hotel can enjoy a soothing spa facility.	Tamu ing hotel Cemerlang bisa nyenengake fasilitas spa sing nyenengake.
+Availability of secure parking is a big advantage of this hotel.	Anane parkir sing aman iku keuntungan gede hotel iki.
+Smoking is permitted at this hotel but only in the smoking area.	Udud diidini ing hotel iki nanging mung ing area udud.
+The hotel's daily cleaning service always keeps the rooms fresh.	Layanan keresikan dinoan hotel selalu nggawe kamar seger.
+Yes, you can request extra hangers or storage space in the room.	Enggeh, sampeyan bisa njaluk hang utawa kamar panyimpenan ing ruangan.
+Hotel Montana is located in a mountainous area and has good views	Hotel Montana dumunung ing wilayah pegunungan lan wis apik views
+Many hotels in Yogyakarta still use traditional Javanese designs.	akeh hotel ing yogyakarta kang isih migunakake desain tradhisional jawa.
+Many hotels in Bali offer accommodations with direct ocean views.	akeh hotel ing bali nawakake akomodasi karo sesawangan langsung menyang segara.
+This hotel is a pet friendly, so we bring our dog for a vacation.	Hotel iki dadi grapyak kewan, mula kita nggawa asu kanggo liburan.
+our hotel provides airport shuttle service at an additional cost.	Hotel kita nyedhiyakake layanan antar-jemput bandara kanthi biaya tambahan.
+UM student dormnitory have a public watercloset in every cluster.	Kamar mandi Asrama UM minangka jedhing umum sing kasedhiya ing saben kluster.
+We enjoyed a romantic evening at the hotel's luxurious restaurant	Awakdewe nikmati bengi romantis ning restoran hotel sing mewah
+Bubble Hotel Bali offers room facilities with a semi-open concept	Bubble Hotel Bali nawakake fasilitas kamar kanthi konsep semi-buka
+The quality of the food served matches the hotel's 4-star rating.	Kualitas panganan sing disedhiyakake jumbuh karo bintang sing dicekel hotel yaiku 4 bintang
+Swiss-Belinn Hotel is a hotel closest to Malang State University.	Hotel Swiss-Belinn Hotel minangka hotel sing paling cedhak karo Universitas Malang.
+The atmosphere of the hotel is like a glimpse of heaven on earth.	Atmosfer saka hotel kasebut kaya-kaya lumayan swarga ing bumi.
+In hotels, history and modernity are united in beautiful harmony.	Ing hotel, Sejarah lan Modernitas padha karo harmoni.
+The area around the hotel is surrounded by delicious restaurants.	Area sekitar hotel iki dikelilingi restoran-restoran enak.
+We ordered a room with small kitchen facilities for cooking alone.	Kita dhawuh kamar karo fasilitas pawon cilik kanggo masak dhewe.
+This Hotel prioritize service and security so guest feel satisfied	Hotel iki ngutamakake pelayanan lan kaamanan dadi pengunjung ngrasa marem
+Visitors will be subject to fines according to the hotel's losses.	Pengunjung bakal tundhuk denda miturut kerugian hotel.
+Of course, we can organize trips to the best vinaries in the area.	Mesthi, kita bisa ngatur lelungan menyang vinari paling apik ing wilayah kasebut.
+Enjoy regional specialties in the hotel food and beverage package.	Nikmati panganan khas daerah ing paket panganan lan minuman hotel.
+Reservations can be made online via the Golden Tulip Hotel website	Reservasi bisa digawe online liwat situs web Hotel Golden Tulip
+Yes, we have 24-hour room service to meet the needs of our guests.	Enggeh, kita duwe layanan kamar 24 jam kanggo memenuhi kebutuhan tamu kita.
+Hospitality tourism is the art of making every guest feel special.	Pariwisata Hospitality minangka seni nggawe saben tamu sing khusus.
+Hospitality tourism is the art of making every guest feel at home.	Pariwisata Hospitival yaiku seni nggawe saben tamu rumangsa ing omah.
+At hotels, comfort is a universal language that we all understand.	Ing Hotel, Comfort minangka basa universal sing kita ngerti.
+You can order breakfast as an add-on when making your reservation.	Sampeyan bisa pesen sarapan minangka tambahan nalika nggawe reservasi.
+Yes, we have a restaurant serving local and international cuisine.	Enggeh, kita duwe warung sing mlayani masakan lokal lan internasional.
+Yes, you can request a room with a separate living area or lounge.	Enggeh, sampeyan bisa njaluk kamar kanthi ruang tamu utawa ruang istirahat sing kapisah.
+Hotels are usually busiest during the holiday season and weekends.	hotel biyasane paling sibuk lawase musim liburan lan akir pekan.
+Can, especially in the holiday season or weekend provides discounts	Bisa, utamane ing musim liburan utawa akhir minggu menehi diskon
+Malang offers a wide selection of hotels for all types of tourists.	Malang nawakake macem-macem hotel kanggo kabeh jinis turis.
+Star hotels have more expensive staying prices than ordinary hotels	Hotel bintang duwe rega tetep sing luwih larang tinimbang hotel biasa
+Usually these facilities can be accessed from 06.00 am to 22.00 pm.	Biasane fasilitas kasebut bisa diakses wiwit jam 06.00 nganti 22.00.
+You can rent equipment and participate in various water activities.	Sampeyan bisa nyewa peralatan lan melu macem-macem kegiatan banyu.
+Golden Tulip Holland Resort Batu is 2.2 km from the center of Batu.	Golden Tulip Holland Resort Batu is 2,2 km from centre of Batu.
+Horizon Hotel has a special honeymoon room which has several themes	hotel hotizon nduwe kamar kanggo bulanmadu sing duwe tema
+In a hotel room, you can feel the vibrations of the city below you.	Ing kamar hotel, sampeyan bisa ngrasakake getaran kutha ing ngisor sampeyan.
+Every corner of the hotel is a portrait of the beauty of the world.	Saben pojok hotel yaiku potret kaendahan jagad iki.
+Yes, you can request airport shuttle service for an additional fee.	Enggeh, Sampeyan bisa nglebet jasa antar-jemput bandara karo biaya tambahan.
+Restaurants in Hotel Santosa serves delicious international dishes.	Restoran di Santosa hotel nglukeni sajian internasional sing enak.
+Restaurants at Bahagia Hotel provide a variety of vegetarian menus.	Restoran ing Hotel Bahagia nyedhiyakake macem-macem menu vegetarian.
+Hotel Seruni provides services to assist guests in planning a tour.	Hotel Seruni nyedhiyakake layanan kanggo mbantu tamu ing ngrancang wisata.
+Rooms at Hotel Pesona have an ergonomic layout for maximum comfort.	Kamar Hotel PESONA duwe tata letak ergonomis kanggo kepenak maksimal.
+Yes, the hotel provides 24-hour room service for guest convenience.	Enggeh, hotel iki menehi layanan kamar 24 jam kanggo kenyamanan tamu.
+Many 5 star hotels in Bali offer stunning sea views from each room.	Akeh hotel 5 bintang ing Bali nawakake pemandangan segara sing nggumunke saka saben ruangan.
+Diving in coral reefs and staying at the beach hotel in Raja Ampat.	Nyilem ing Terumbu Coral lan tetep ing pantai pantai ing Raja Ampat.
+Some hotels have rooftop bars for those who want to enjoy the view.	Sebagian hotel nduweni bar ing atap kanggo dheweke kabeh kang pengin nikmati sesawangan hotel
+The price of staying one night at the Aston Hotel is quite expensive	Regane nginep sewengi ing Hotel Aston lumayan larang
+What if guests meet business opponents who have different languages?	Para tamu bisa order penerbangan kanggo rapat bisnis.
+Hotel Dunkin offers stunning views that can be seen from the balcony	Hotel Dunkin nawakake pemandangan sing nggumunke sing bisa dideleng saka balkon
+Yes, the Wyndham Garden Kuta Beach Bali hotel is close to Kuta beach	Enggeh, hotel Wyndham Garden Kuta Beach Bali cedhak karo pantai Kuta
+Yes, we have special romantic packages for honeymooners and couples.	Enggeh, nduweni paket romantis mlingi kanggo bulan madu lan pasangan
+Hotels are often a comfortable place to stay for business travelers.	Hotel sering dadi panggonan nginep sing nyaman kanggo pelancong bisnis.
+The rental price for the hotel depends on the facilities you desire.	Rega sewa hotel gumantung saka fasilitas sing dikarepake
+Hotel Four Seasons Restaurant provides a special menu for vegetarian	Restoran Hotel Four Seasons menyediakan menu khusus untuk vegetarian
+The food at the Grand Senyiur Hotel is very delicious and nutritious	Panganan ing Hotel Grand Senyiur pancen enak lan nutrisi
+This hotel has safe and comfortable facilities for disabled visitors	Hotel iki nduweni fasilitas sing aman lan nyaman kanggo pengunjung cacat
+Hotel horizon recieve 3 stars rating because the quality of the pool	hotel horizon nduweni 3 bintang amargo kualitas kolam renang e
+Laundry and dry cleaning services are available for an extra charge.	Layanan binatu lan dry cleaning ana karo biaya tambahan.
+Restaurants at Sari Rasa Hotel served delicious and unique desserts.	Restoran ing Hotel Sari Rasa dadi panganan cuci multian sing enak lan unik.
+This hotel provides monthly promotions related to room rates and F&B	Hotel iki nyedhiyakake promosi saben wulan sing ana gandhengane karo tarif kamar lan F&B
+The spa facilities at the hotel can help guests relax and rejuvenate.	fasilitas spa nang hotel biso ngiwangi tamu santai lan meremajakan diri
+Hotels in tourist destinations often have beautiful scenery of nature	hotel ing destinasi wisata asring nduweni sesawangan alam kang endah
+Swimming pool facilities at this hotel are very clean and refreshing.	Fasilitas Kolam Renang ing Hotel iki resik lan sumilir.
+The hotel is located just a 10-minute walk from Malang train station.	Hotel iki mung 10 menit mlaku saka stasiun sepur Malang
+The many natural and cultural attractions available around the hotel.	Ana akeh wisata alam lan budaya sing kasedhiya ing sekitar hotel.
+We have a swimming pool, fitness center, and spa that guests can use.	Kita duwe kolam renang, pusat fitness lan spa sing bisa digunakake para tamu.
+Sorry for the inconvenience, we will prepare us a replacement for you	Nyuwun sewu kanggo kesulitan, kita bakal nyiyapake pengganti kanggo sampeyan
+Yes, our hotel has a swimming pool facility available for all guests.	Enggeh, hotel kita duwe fasilitas kolam renang sing dadi supados kanggo kabeh tamu.
+spoons, towels and blankets at the Horizon Hotel cannot be taken home	sendok, handuk lan selimut ning hotel horizon gaoleh digowo mulih
+Hotels are a convenient window to a world when exploring a new place.	Hotel minangka jendhela sing trep menyang jagad nalika njelajah papan sing anyar.
+Our cancellation policy varies depending on room type and stay dates.	Kebijakan pembatalan kita beda-beda dhasar saka tipe kamar lan tanggal nginap.
+We can assist you in arranging tours and activities around the hotel.	Kita bisa nglebet Sampeyan ngatur tur utawa kegiatan ing sekitar hotel.
+Guests at Bintang Hotels can order tour tours through the application	Tamu ing Bintang Hotel Bintang bisa ngirim wisata wisata liwat aplikasi kasebut
+Swimming pool at Hotel Mawar is equipped with a safe children's pool.	Kolam renang ing Hotel Mawar dilengkapi kolam renang bocah sing aman.
+Hotel Mawar has a large swimming pool that provides spectacular views	Hotel Mawar duwe kolam renang gedhe sing nyedhiyakake tampilan luar biasa
+There are no additional fees for those who want to park at this hotel	Ora ana biaya tambahan kanggo sing pengin parkir ing hotel iki
+Jakarta is home to various luxurious and comfortable business hotels.	Jakarta minangka omah kanggo macem-macem hotel bisnis mewah lan nyaman.
+In Bandung, there are many historic hotels with colonial architecture.	ing bandung ana akeh hotel bersejarah kang nduweni arsitektur kolonial
+The hotel has reception staff ready to assist guests around the clock.	Hotel nduwe staf resepsionis sing siap ngewangi tamu saben waktu.
+The hotel has reception staff ready to assist guests around the clock.	Hotel ialah panggonan nginep sing populer ing kalangan wisatawan.
+Booking costs doesn't differ in terms of quality or the price charged.	Ragad pesenan ora beda-beda ing babagan kualitas utawa regane
+Hotel Rama serves fragrant local coffee as part of a breakfast package	Hotel Rama menyajikan kopi lokal yang harum sebagai bagian dari paket sarapan
+Enjoy dinner at the hotel restaurant which has a delicious local menu.	Dhahar wengi ing restoran hotel sing nduweni menu lokal sing enak.
+Hotel horizon restaurant serves typical dishes with delicious flavors.	restoran ning hotel horizon nyediakno panganan sing khas lan enak
+at the horizon hotel you can find durian, animals and cooking utensils	ning hotel horizon gaoleh ngowo durian, kewan lan alat kanggo masak
+Food at the Harmoni Hotel Restaurant is very delicious and affordable.	Panganan ing Restoran Hotel Harmoni enak banget lan terjangkau.
+Hotel Mutiara provides a shuttle service to the nearest train station.	Hotel mutiara nyedhiyakake layanan anter jemput menyang stasiun sepur sing paling cedhak.
+Guests at the Harmoni Hotel can order a shuttle service at the station	Tamu ing Harmoni Hotel bisa nggawe layanan anter jemput ing stasiun
+There are car and bicycle rental services for guests staying overnight	Ana layanan rental mobil lan sepeda kanggo tamu sing nginep ing wayah wengi
+Yes, breakfast is a buffet at The Sakala Resort Bali - All Suites hotel	Enggeh, sarapan prasmanan ing hotel The Sakala Resort Bali - All Suites
+No, this action will certainly disturb other visitors who want to rest.	Ora, tumindak iki mesthi bakal ngganggu pengunjung liyane sing pengin ngaso.
+Wi-Fi transmitters already support 4G and 5G signals for use by guests.	Piranti pemancar Wi-Fi ndhukung sinyal 4G lan 5G kanggo digunakake dening tamu
+Of course, because paying one night's rent includes breakfast and lunch	Mesthi, amarga mbayar sewa sewengi kalebu sarapan lan nedha awan
+Yes, you can ask for guidance via the contacts available on Google Maps	Enggeh, sampeyan bisa njaluk pituduh liwat kontak sing kasedhiya ing Google Maps
+You can book a room through our website or by contacting our reception.	Sampeyan bisa pesen kamar liwat situs web kita utawa ngontak resepsionis kita.
+Yes, we have meeting and conference facilities with various capacities.	Enggeh, kita duwe fasilitas pertemuan lan konferensi karo kapasitas sing beda.
+Guests at the Sejati Hotel can enjoy access to a private swimming pool.	Tamu ing Sejati Hotel bisa nyenengake akses menyang kolam renang pribadi.
+Rooms at the Asri Hotel have a private balcony with a view to the park.	Kamar ing hotel Asri duwe balkon pribadi kanthi tampilan taman kasebut.
+You can access free Wi-Fi in your room and in the hotel's common areas.	Sampeyan bisa nyambung Wi-Fi gratis ing kamar lan wilayah umum hotel.
+The lounge area in the hotel lobby is very comfortable for socializing.	Panggon santai ing lobby hotel nyaman banget kanggo sosialisasi.
+The hotel offers special discounts to members of their loyalty program.	Hotel iki nawarno diskon khusus kanggo anggota program loyalitas.
+Yes, there are accessible rooms available for guests with disabilities.	Enggeh, ana kamar sing bisa diakses kasedhiya kanggo tamu sing ora duwe kabisan.
+Montana hotel facilities are very complete and have a large parking area	Fasilitas hotel Montana lengkap banget lan duwe area parkir sing gedhe
+Some hotels provide free shuttle services to nearby tourist attractions.	Sawetara hotel nyediakake layanan antar-jemput gratis menyang tujuan wisata sing paling cedhak.
+Malang, a city located in East Java, has many beautiful boutique hotels.	malang, siji kutha kang papan ing jawa wetan, nduweni akeh hotel boutique kang endah
+There are, such as Hotel Atria, Hotel Trio Indah, Ibis Hotel, and others	Ana, kayata Hotel Atria, Hotel Trio Indah, IBIS Hotel, lan liya-liyane
+Cultural hotels feature local art and culture in their décor and events.	Hotel - hotel budoyo nyajike seni lan budoyo lokal nang dekorasi lan acarane
+Yes, we provide complimentary Wi-Fi for all guests throughout the hotel.	Enggeh, kita nyediakake Wi-Fi gratis kanggo kabeh tamu ing kabeh wilayah hotel.
+Of course, the Grand Dafam Q Hotel has 9 meeting rooms that can be used.	Mesthi wae hotel Grand Dafam Q duwe 9 kamar patemon sing bisa digunakake.
+Yes, there is a restaurant open all night that serves delightful dishes.	Enggeh, ana warung sing buka saiki saben malam sing menehi hidangan enak.
+Yes, there are connecting rooms available for families or larger groups.	Enggeh, ana kamar penghubung sing kasedhiya kanggo kulawarga utawa klompok sing luwih gedhe.
+Hotel rooms must be clean and well-maintained for the comfort of tourists	Bilik hotel kudu dados asri lan dikelola kanthi apik supaya wisatawan nyaman.
+Of course, we have local tours and other activities that can be arranged.	Mesthi, kita duwe tur lokal lan kegiatan liyane sing bisa diatur.
+The hotel is currently offering a 15% discount until the end of the year.	Saiki hotel menehi diskon 15% nganti pungkasan taun
+The park in front of the Surya Hotel is usually crowded in the afternoon.	Taman di depan Hotel Surya biasanya ramai di sore hari.
+Morning, for tonight and tomorrow there are still several rooms available	Esuk, kanggo bengi lan sesuk isih ana sawetara kamar sing kasedhiya
+We provide a special place for smokers, maybe you can smoke in there, sir	Kita nyedhiyakake papan khusus kanggo ngrokok, bisa uga ngrokok ing kono, Pak
+For the cost of renting the hall itself ranges from 5,000,000 - 6,500,000	Kanggo biaya nyewa bale kasebut dhewe saka 5.000.000 - 6.000,000
+There are attractive holiday programs and packages provided by this hotel	Ana program liburan menarik lan paket sing diwenehake dening hotel iki
+This hotel has city and mountain views that can be requested by customers	Hotel iki nduweni pemandangan kutha lan gunung sing bisa dijaluk dening pelanggan
+Hotel Golden Tulip provides a playroom for children and also a playground	Hotel Golden Tulip nyedhiyakake papan dolanan kanggo bocah-bocah lan uga papan dolanan
+Yes, close to Museum Angkut, Jawa Timur Park 2 and Batu Night Spectacular	Enggeh, cedhak karo Museum Angkut, Jawa Timur Park 2 lan Batu Night Spectacular
+Hotel Sari Indah provides many services that are very helpful for guests.	Hotel Sari Indah nyedhiyakake akeh layanan sing mbiyantu tamu.
+Luxury hotels offer romantic vacation packages for newly married couples.	Hotel mewah nawakake paket liburan romantis kanggo pasangan bojo sing anyar.
+Tourism in this place is not expensive because it is far from urban areas	Pariwisata ing papan iki ora larang amarga adoh saka kutha
+The hotel offers babysitting services for guests traveling with children.	Hotel nduweni layanan penitipan anak kanggo tamu kang berpergian karo anak
+Tourism in this place is not expensive because it is far from urban areas	Pariwisata ing papan iki ora larang amarga adoh saka kutha
+The hotel has a meeting room with modern technology for business meetings.	Hotel kasebut duwe ruangan rapat karo teknologi modern kanggo rapat bisnis.
+No, but the path is a little twisting because there are many ways one -way	Ora, nanging dalan kasebut rada mbulet amarga ana akeh dalan siji arah
+The most expensive hotel is in the Legian Seminyak Hotel for eight million	Hotel paling larang yaiku ing hotel Seminyak Legi kanggo wolung yuta
+The hotel is about a 10-minute drive from the nearest tourist attractions.	Hotel iki kira-kira 10 menit berkendara saka obyek wisata sing paling cedhak.
+Boutique hotels often have fewer rooms for a more personalized experience.	Hotel - hotel boutique asring nduweni kamar sing setitik kanggo pengalaman sing luwih tertutup
+Smoking is not permitted in the Malang State University Student Dormitory.	Dilarang ngrokok ing Asrama Mahasiswa Universitas Negeri Malang.
+Small boutique hotels often provide a more personal and unique experience.	Hotel-hotel butik cilik seringkali menehi pengalaman sing luwih personal lan unik.
+Travelers often look for hotel reviews online before making a reservation.	Wisatawan sering nggolek ulasan hotel online sakdurunge nggawe reservasi.
+You can go to the Blu Bar to get it, even beer and other alcoholic drinks.	Sampeyan bisa pindhah menyang Blu Bar kanggo entuk, malah bir lan omben-omben liyane.
+Hotel Danur provides free shuttle services to the nearest shopping center.	Hotel Danur menyediakan layanan antar jemput gratis ke pusat perbelanjaan terdekat.
+The view from the balcony of the rooms at Hotel Sans is truly captivating.	Sesawangan saka balkon kamar hotel sans endah banget.
+By ordering via the available website and then entering the existing promo	Kanthi pesen liwat situs web sing kasedhiya banjur mlebu promo sing wis ana
+Each room comes with AC, cable TV, a refrigerator, and a private bathroom.	Setiap kamar dilengkapi karo AC, TV kabel, kulkas, lan kamar mandi pribadi.
+Check-in can be done starting at 2:00 PM, and check-out is until 12:00 PM.	Check-in bisa dilakukan mulai jam 14:00, lan check-out sampun jam 12:00.
+Hotel Sentosa provides free bus shuttle bus to famous tourist attractions.	Hotel Sentosa nyedhiyakake bus shuttle bus gratis kanggo obyek wisata sing misuwur.
+Pesona Hotel has a conference room that is suitable for business meetings.	Hotel Pesona duwe ruangan konferensi sing cocog kanggo rapat-rapat bisnis.
+Hotel Gunung has a large and comfortable meeting room for business events.	Hotel Gunung duwe ruang patemon sing gedhe lan nyaman kanggo acara bisnis.
+The swimming pool at the Pelangi Hotel is surrounded by shady green trees.	Kolam renang ing Hotel Pelangi diubengi wit ijo sing surem.
+Restaurants in Hotel Seruni are famous for authentic international dishes.	Restoran di Hotel Seruni misuwur kanggo sajian internasional sing asli.
+Yes, there are accessible power outlets near the bed for charging devices.	Enggeh, ana outlet listrik sing bisa diakses ing cedhak amben kanggo piranti pangisi daya.
+Yes, there are bath amenities such as a shower cap or dental kit provided.	Enggeh, ana fasilitas siram kayata adus utawa kit dental sing diwenehake.
+Exotic beach on Komodo Island is the perfect background for luxury hotels.	Pantai endah ing Pulo Komodo minangka latar mburi sing cocog kanggo Hotel Mewah.
+Family rooms provide extra mattresses, suitable for families with children	Kamar kulawarga nyedhiyakake kasur ekstra, cocok kanggo kulawargane karo anak
+Near the swimming pool, there is a hot tub area with a very beautiful view.	Ing cedhak kolam-renang ana panggon padusan banyu panas karo sesawangan kang endah banget
+Transportation services such as shuttle buses are often provided by hotels.	Layanan transportasi kayata bis asring disediake teko hotel
+The location of this hotel is very strategic, close to the main attractions	lokasi hotel iki strategis banget, cedek karo nggon wisata utama
+The quality of food and drinks at the hotel can be an attraction in itself.	Kualitas panganan lan minuman ing hotel bisa dadi daya tarik dhewe-dhewe.
+You can use public transportation or we can arrange transportation for you.	Sampeyan bisa nggunakake transportasi umum utawa kita bisa ngatur transportasi kanggo sampeyan.
+The sink in the bathroom on the 2nd floor of the Niji hotel ran out of soap	Wastafel ing kamar mandi ing lantai 2 hotel Niji entek sabune
+The view from the 18th floor of this hotel is very beautiful but also scary	Pemandangan saka lantai 18 hotel iki apik banget nanging uga medeni
+The hotel provides airport shuttle services for guests who book in advance.	Hotel iki menehi layanan antar-jemput bandara kanggo tamu sing pesen sadurunge.
+The hotel's meeting rooms are suitable for conferences and business events.	Panggon pertemuan hotel cocok kanggo konferensi lan acara bisnis.
+By contacting the receptionist to arrange a tour that suits your preferences	ngehubungi rresepsionis kanggo ngatur tur wisata kang jumbuh karo gegayhuan
+This hotel restaurant serves fresh sea dishes taken directly from the beach.	Restoran Hotel iki ngladeni sajian laut seger sing dijupuk langsung saka pantai.
+At the AMANDJIWO Hotel, the cost of lodging at the resort is quite expensive	Ing Hotel Amandiiwo, biaya lodging ing resort kasebut cukup larang
+The air conditioning in the room can be adjusted to the desired temperature.	AC ing kamar bisa disetel menyang suhu sing dikarepake.
+Hotel electronic keys are keys used to open room doors using a card or code.	Kunci elektronik hotel yoiku kunci sing di gae buka lawang kamar karo kartu
+This hotel offers romantic packages for couples celebrating special moments.	Hotel iki nawarno paket romantis kanggo pasangan sing ngerayakno momen istimewa.
+The food provided by the hotel is quite varied, such as fried rice and satay	Panganan sing disedhiyakake hotel cukup maneka warna, kayata sego goreng lan sate
+This hotel offers room options with different and unique themed decorations.	Hotel iki nawarno pilihan dekorasi tema seng bedo lan unik
+The food provided by the hotel is quite varied, such as fried rice and satay	Panganan sing disedhiyakake hotel cukup maneka warna, kayata sego goreng lan sate
+Hotel Raodah provides conference rooms for hosting formal and informal events	Hotel raodah menehi panggon rembukan kanggo ngadakno acara resmi lan ora resmi seng  kapasitas gede
+We provide a free shuttle service to nearby shopping centers every few hours.	Kami menyediakan layanan antar-jemput gratis ke pusat perbelanjaan terdekat setiap beberapa jam.
+Certain hotels organize entertainment or cultural activities for their guests	Hotel-hotel tartentu nyelenggatakno kegiatan hiburan utawa budaya gawe tamune.
+By entering the password and username from the card given by the receptionist	Kanthi ngetik sandhi lan jeneng pangguna saka kertu sing diwenehake dening resepsionis
+The hotel room is OASE calm in the midst of the madness of the outside world.	Kamar hotel minangka tenang ing tengah-tengah kegilaan ing jagad njaba.
+Hotel Pelangi has a minimalist cafe that often holds live music performances.	Hotel Pelangi duwe kafe minimalis sing asring duwe pagelaran musik sing urip.
+Batam Island is the perfect place to stay in luxury hotels while on vacation.	Batam Island minangka papan sing cocog kanggo tetep ing hotel mewah nalika lagi liburan.
+Hotels in Bandung offer easy access to famous shops and the best restaurants.	Hotel ing Bandung nawakake akses gampang kanggo toko terkenal lan restoran paling apik.
+Guests can order a tour on the front desk and explore the history of the city.	Para tamu bisa pesen ing meja ngarep lan njelajah sejarah kutha.
+We have to spend 500,000 ruWe have to spend 500,000 rupiah a nightpiah a night	Awakdewe kudu ngetokne duwik lima ngatus ewu sewengi
+Dunkin Hotel visitors can enjoy the beauty of the sunset from the rooftop bar.	Pengunjung Hotel Dunkin dapat menikmati keindahan matahari terbenam dari rooftop bar.
+The hotel offers a discount program for guests staying more than three nights.	Hotel iki nawarno program diskon gawe tamu sing nginep luwih saka telung wengi.
+Hotel loyalty programs usually provide additional benefits to frequent guests.	Program loyalitas hotel biasane ngewenehi piguna tambahan gawa tamu sing gelek nginep.
+We have a variety of room types, ranging from standard rooms to luxury suites.	Kita duwe macem-macem jenis kamar, kalebu kamar standar nganti suite mewah.
+Guests at the Pelangi Hotel can order traditional food from all over Indonesia	Tamu ing hotel Pelangi bisa menehi panganan tradisional saka saindenging Indonesia
+Hotel Cemerlang provides free shuttle services to train stations and airports.	Hotel Cemerlang nyedhiyakake layanan anter jemput gratis kanggo nglatih stasiun lan bandara.
+The hotel's cuisine offers dishes from various countries with delicious flavors	hidangan ing hotel iki nyediakake saka sawetara nagara lam raos sing sekeca
+Hotels in the tourist destinations of Lombok often have beautiful natural views	Hotel-hotel ing destinasi wisata Lombok sering duwe tampilan alam sing apik.
+Hotel Raodah has been awarded 3 stars due to the guaranteed safety and comfort.	Hotel Raodah oleh bintang 3 amarga kaamanan lan kenyamanan terjamin
+the hotel is designed with adequate accessibility for people with disabilities.	Hotel iki dirancang kanthi aksesibilitas sing cukup kanggo wong sing ora duwe kabisan.
+Guests can order room service for a romantic dinner in a room with a city view.	Tamu iso pesen layanan kamar kanggo mangan bengi romantis ing kamar karo pemandangan kutha.
+The women's dormitory closes at 21.30 WIB, the men's dormitory closes at 22.30.	Asrama putri tutup jam 21.30 WIB, asrama putra tutup jam 22.30.
+Yes, we provide 24-hour room service to cater to our guests' needs at any time.	Enggeh, nyediake layanan kamar 24 jam kanggo ngebeki kebuthuan tamu
+Unfortunately the hotel does not yet have cooking facilities for guests to use.	Sayange hotel iki durung duwe area masak sing bisa digunakake dening tamu
+Golden Tulip Holland Resort Batu provides a swimming pool that visitors can use	Golden Tulip Holland Resort Batu nyedhiyakake kolam renang sing bisa digunakake pengunjung
+Horizon Hotel has a loyalty program that can help guests book rooms more easily	hotel horizon nduwe program loyalty gawe ngampangno wong sing pesen kamar
+Hotel Santosa offers family vacation packages with fun activities for children.	Hotel Santosa nawakake paket liburan kulawarga kanthi kegiatan sing nyenengake kanggo bocah-bocah.
+On the first floor, child care services are provided for visitors who need them	Ing lantai siji, layanan perawatan bocah diwenehake kanggo pengunjung sing mbutuhake
+Yes, there is laundry and clothing drying service for the convenience of guests.	iya ana layanan pencucian lan pengeringan sandhangan kanggo kenyamanan tamu
+Many hotels offer a variety of room types, from standard rooms to luxury suites.	Akeh hotel sing nawari macem-macem kamar, mulai saka kamar standar nganti suite mewah.
+Yes, there is a tourist information center just a few steps away from the hotel.	Enggeh, ana pusat informasi pariwisata mung sawetara langkah saka hotel.
+The staff will clean the rooms daily like replacing towels and other essentials.	Petugas bakal ngresiki kamar saben dina kaya ngganti andhuk lan peralatan liyane.
+In the lobby of Hotel Whizz, there are magazines that can be read while waiting.	Ndek lobby Hotel Whizz ana majalah seng iso diwaca mbari nunggu
+Accommodation in Ngawi is usually equipped with AC, TV, WI-FI and swimming pool.	Akomodasi ing Ngawi biasane dilengkapi AC, TV, WI-FI lan kolam renang.
+Yes, we are committed to providing accessibility facilities for disabled guests.	Enggeh, kita komitmen kanggo nyediakake fasilitas aksesibilitas kanggo tamu sing disabilitas.
+Hotel Sejahtera has sports facilities such as tennis courts and fitness centers.	Hotel Sejahtera duwe fasilitas olahraga kayata pengadilan tenis lan pusat kebugaran.
+Services at Sari Indah Hotel can help guests in planning a tour around the city.	Layanan ing hotel Sari Indah bisa mbantu tamu ing ngrancang wisata ing saindenging kutha.
+In this hotel, guests can make requests for meals when they have food allergies.	Ing hotel iki tamu iso nggawe permintaan kanggo makanan yen dheweke nduweni alergi
+The hotel has a variety of room types to suit guests' varying needs and budgets.	hotel nduweni sawetara jinising kamar kanggo ngebaki sawetara kabutuhan lan anggaran tamu.
+The executive chef is responsible for kitchen operations at the hotel restaurant.	Chef Eksekutif tanggung jawab kanggo operasi pawon ing restoran hotel.
+One of the facilities provided by the Kokoon hotel is a karaoke room and spa room	salah sijine fasilitas seng dikek i hotel kokoon koyok nggon karaoke lan nggon spa
+Hotels in Semarang reflect the history of this city, such as the Majapahit Hotel.	kepriye gegambaran hotel ing semarang?
+Many hotels offer stunning views, such as beaches, mountains, or bustling cities.	Akeh hotel sing nawari pemandangan sing menakjubkan, kaya pantai, pegunungan, utawa kutha-kutha sing ramai.
+Savana hotel visitors often capture wedding moments in a beautiful flower garden.	Pengunjung Hotel Savana sering mengabadikan momen pernikahan di taman bunga yang indah.
+Family vacation packages at Hotel Four Seasons include fun children's activities.	Paket liburan keluarga di Hotel Four Seasons sudah termasuk aktivitas anak-anak yang menyenangkan.
+Hotel Golden Tulip provides pick-up and drop-off services at an additional charge	Hotel Golden Tulip nyedhiyakake layanan pick-up lan drop-off kanthi biaya tambahan
+This hotel has complete facilities starting from a swimming pool and fitness room	Hotel iki nduweni fasilitas lengkap kayata ruang fitness
+the view from the first floor of the hotel is a sight of mountains and waterfalls	pemandangan ning lantai ndukur dewe ndek hotel horizon onok gunung lan grojokan
+You can contact the front desk 24/7 using the phone number provided in your room.	Sampeyan bisa ngontak resepsionis 24 jam nganggo nomer telepon sing ana ing kamar.
+This hotel provides laundry services at prices according to the list in each room	Hotel iki nyedhiyakake layanan binatu kanthi rega miturut dhaptar ing saben kamar
+Laundry services are also included in the service, just call the reception number	Layanan umbah-umbah uga kalebu ing layanan kasebut, mung nelpon nomer resepsi
+The hotel has a fitness center with a private coach who helps us maintain fitness.	Hotel kasebut duwe pusat fitness kanthi pelatih pribadi sing mbantu kita dadi fitness.
+Because the hotel has facilities that seem attractive, namely very beautiful views	Amarga hotel kasebut nduweni fasilitas sing katon menarik, yaiku pemandangan sing apik banget
+Of course, this hotel uses the sharia concept so it is very suitable for families.	Mesthine hotel iki nggunakake konsep syariah saengga cocok banget kanggo kulawarga.
+As a guide to hotel employees not to temporarily clean rooms for privacy purposes.	Minangka pandhuan kanggo karyawan hotel ora kanggo sementara ngresiki kamar kanggo tujuan privasi.
+This hotel accepts reservations from children but identification card is required.	Hotel iki nampa mesen kamar dening bocah-bocah nanging butuhake kartu pengenal
+Of course you can, some hotels provide direct hotlines to complain about problems.	Mesthi wae sampeyan bisa, sawetara hotel nyedhiyakake hortlines langsung kanggo sambat babagan masalah.
+Room service at the Pelangi Hotel 24 Hours, meets the needs of guests at any time.	Layanan kamar ing Pelangi Hotel 24 jam, ketemu kebutuhan tamu sawayah-wayah.
+Rooms at the Suna Hotel are equipped with a private balcony facing the Hotel Park.	Kamar ing Hotel Suna dilengkapi balkon pribadi sing ngadhepi taman hotel.
+The hotel's strategic location makes it easy to access famous tourist attractions.	Lokasi hotel sing strategis mudahno akses ning panggon wisata terkenal.
+Many hotels in Indonesia feature unique designs that reflect local culture and art.	akeh hotel ing indonesia menonjolkan desain unik kang nyerminake budaya lan kagunan lokal.
+The parking lot at Hotel Raodah is very spacious so it can accommodating many cars.	Parkiran in Hotel Raodah jembar banget dadi cukup digawe akeh mobil
+the hotel has a restaurant that serves regional specialties with delicious flavors.	Hotel iki duwe restoran sing nyediakake masakan khas daerah sing duweni rasa sing enak.
+This hotel offers a beautiful beach view that can be enjoyed from the room balcony.	Hotel iki menawakake pemandangan apik menyang pantai sing iso dinikmati saka balkon kamar.
+Under normal conditions, guests are only allowed to enter the waiting room (lobby).	Ing kahanan normal, tamu mung diidini mlebu ing ruang tunggu (lobi).
+Hotels in big cities usually have easy access to entertainment and culinary venues.	Hotel-hotel ing kutha-kutha gede biasane nduweni akses gampang nang panggon hiburan lan kuliner.
+Yes, this hotel has meeting room facilities for business meetings or special events	Enggeh, hotel iki nduweni fasilitas ruang rapat kanggo rapat bisnis utawa acara khusus
+The Golden Tulip Hotel completes its facilities by providing a balcony in each room	Hotel Golden Tulip ngrampungake fasilitas kanthi menehi loteng ing saben kamar
+Certainly, we have rooms with sea views that you can book, subject to availability.	Ana, kita duwe kamar karo pemandangan laut sing bisa sampeyan pesen, mlebu ing katersediaan.
+Guests at Hotel Sejahtera can access free Wi-Fi internet in all areas of the hotel.	Tamu ing Hotel Sejahtera bisa ngakses Internet Wi-Fi gratis ing kabeh wilayah hotel.
+Yes, this hotel has a restaurant that is open late, so you can enjoy a late dinner.	Enggeh, hotel iki duwe restoran sing buka sakala malam, uga sampeyan bisa menikmati makan malam sing ulik.
+Yes, this hotel offers transportation services for visitors at an additional charge.	iya hotel iki nyediakae jasa transportasi kanggo pengunjung lan ana biaya tambahan
+Absolutely, Wi-Fi is available in all rooms, and it is complimentary for all guests.	tamtu wae ana wifi ing kabehing kamar lan gratis kanggo kabeh tamu
+The cleanliness and comfort of a hotel room is very important for a satisfying stay.	Keresikan lan kenyamanan kamar hotel iku penting kanggo pengalaman nginep sing memuaskan.
+This hotel does not charge extra fees for guests when using the provided facilities.	Hotel iki ora ngisi biaya tambahan kanggo tamu nalika nggunakake fasilitas sing kasedhiya
+Hotel Saa Nuansa Ngawi is a suitable hotel for you to go to if your money is limited	Hotel Saa Nuansa Ngawi minangka hotel sing cocok kanggo sampeyan yen dhuwit sampeyan winates
+The cheapest room price at Golden Tulip Holland Resort Batu is around IDR 1,222,223.	Rega kamar sing paling murah ing Golden Tulip Holland Resort Batu sekitar Rp 1.222.223.
+The Golden Tulip Hotel provides a shared ATM to make it easier for visitors who come	Hotel Golden Tulip nyedhiyakake ATM bebarengan kanggo nggampangake pengunjung sing teka
+You can ask about accessibility facilities at the hotel when booking or at check-in.	sampeyan iso nakokno soal fasilitas aksesbilitas ning hotel pas mesen utowo check-in
+Hotel laundry service is a service where the hotel washes and irons guests' clothes.	layanan ngumbah klambi hotel yoiku hotel ngumbah klambi lan nyeteriko klambi e tamu
+Apart from hot water facilities, the Horizon Hotel bathroom also has a large bathtub	saliyane fasilitas banyu anget ing jedhing hotel horizon, ana bak mandi seng gede
+The green area at the Harmoni Hotel is able to pamper visitors with a beautiful view	Wilayah ijo ing Harmoni Hotel bisa ngemas pengunjung kanthi tampilan sing apik
+Hotel Seribu provides bicycle rental services for guests who want to explore around.	Hotel Seribu nyedhiyakake layanan sewa sepeda kanggo tamu sing pengin njelajah.
+This hotel has an exclusive night club that offers exciting nighttime entertainment.	Hotel iki duwe klub malam eksklusif sing menawani hiburan malem sing menarik.
+This hotel provides wedding catering services according to the wedding package taken	Hotel iki nyedhiyakake layanan katering kanggo mantenan miturut paket manten sing dijupuk
+Hotels in Malang often have a strategic location close to famous tourist attractions.	Hotel ing Malang asring duwe lokasi strategis sing cedhak karo obyek wisata sing misuwur.
+The hotel features a swimming pool, restaurant, fitness center and free Wi-Fi access.	Hotel iki dilengkapi kolam renang, restoran, pusat kebugaran lan akses Wi-Fi gratis.
+People with disabilities are given priority to occupy the 1st floor of the dormitory.	Wong cacat diwenehi prioritas kanggo manggoni lantai siji asrama.
+We have special rooms that are accessible and designed for guests with special needs.	Kita duwe kamar khusus sing ramah kanggo tamu karo kebutuhan khusus ing hotel iki.
+Restaurants at Sari Indah Hotel often hold live music events for guest entertainment.	Restoran ing Hotel Sari Indah asring duwe acara musik live kanggo hiburan tamu.
+You can book a private butler service for your room by contacting the guest services.	Sampeyan bisa pesen layanan butler pribadi kanggo kamar sampeyan dening ngontak pelayanan tamu.
+Yes, some hotels in Bali welcome pets, but make sure to check their pet policy first.	Enggeh, sawetara hotel ing Bali nggawé sambutan kanggo hewan peliharaan, nanging pastiake kanggo ngecek kebijakan sampeyan mula.
+Yes, there are soundproofing measures in place to reduce noise from outside the room.	Enggeh, ana langkah-langkah langkah-langkah ing papan kanggo nyuda swara saka njaba ruangan.
+Ibis Hotel provides a safe in every room for guests who want to store valuable items.	Ibis nduweni brangkas ing saben kamar kanggo tamu kang pengin nyimpen barang beharga
+The transportation equipment available for rent to guests are bicycles and motorbikes.	Sarana transportasi sing iso disewa para tamu yaiku sepedha lan sepedha motor
+The Wi-Fi at Hotel Raodah is very fast, making it suitable for work and communication.	Wi-fi kang diduweni hotel raodah cepet banget dadi cocog digunakake kanggo nyambut gawe lan
+Pesona Hotel has a fitness area with modern equipment for guests who like to exercise.	Hotel Pesona duwe area fitness karo peralatan modern kanggo tamu sing seneng olahraga.
+The nearest hotels to Malioboro in Yogyakarta are those around Jalan Malioboro itself.	Hotel paling adoh karo Malioboro ing Yogyakarta yaiku hotel sing ana ing pinggir Jalan Malioboro iku sendiri.
+Yes, there may be 24-hour room service available. It's best to confirm with the hotel.	Enggeh, bisa uga ana layanan kamar 24 -hour sing kasedhiya. Luwih becik kanggo konfirmasi karo hotel kasebut.
+This hotel has a pet-friendly policy for guests traveling with their furry companions.	hotel iki nduweni kebijakan kewan ingon-ingon kanggo tamu kang lelungan bareng kewan kesayangan dheweke kabeh.
+Hotel staff in Malang are famous for being friendly and professional in serving guests.	Staff Hotel ing Malang misuwur amarga grapyak lan profesional kanggo ngladeni tamu.
+The hotel is very close to Sultan Aji Muhammad Sulaiman Sepinggan International Airport	Hotel iki cedhak banget karo Bandara Internasional Sultan Aji Muhammad Sulaiman Sepinggan
+we have local tour packages that include visits to popular attractions around the area.	Kita duwe paket wisata lokal sing kalebu kunjungan menyang atraksi populer ing sekitar wilayah kasebut.
+Of course there is, you can enjoy food message delivery services from 10:00 am to 10:00	Mesthi wae, sampeyan bisa seneng layanan kiriman pesen saka 10:00 kanggo 10:00
+Located in the center of South Jakarta's business, shopping and entertainment district.	Dumunung ing pusat bisnis, blanja lan hiburan Jakarta Selatan.
+This hotel offers a variety of room choices, making it a suitable choice for a holiday.	Hotel iki nawakake macem-macem pilihan kamar, dadi pilihan sing cocok kanggo liburan.
+Yes, the hotel has a fully-equipped fitness center with personal instructors available.	Enggeh, hotel iki duwe pusat kebugaran lengkap karo instruktur pribadi sing siap.
+Yes, our hotel has a restaurant that serves a variety of local and international dishes.	Enggeh, hotel kita duwe restoran sing nyajikan berbagai hidangan lokal lan internasional.
+You can order airport pickup services through a receptionist or Concierge Hotel service.	Sampeyan bisa pesen layanan pilihan bandara liwat layanan hotel resepsional utawa concium.
+Asri Hotel offers fishing activities in their fish ponds for guests who like this sport.	Asri Hotel nawakake kegiatan fishing ing kolam iwak kanggo tamu sing seneng olahraga iki.
+Luxury experience waiting for you at an exclusive resort in Lombok with a private beach.	Pengalaman mewah ngenteni sampeyan kanthi resort eksklusif ing Lombok kanthi pantai pribadi.
+Complaints can be submitted by calling the reception number listed in the room directory	Keluhan bisa diajukake kanthi nelpon nomer resepsi sing kadhaptar ing direktori kamar
+Yes, there is a tour booking service that can be customized according to your preferences	iya ana layanan pemesanan kanggo tur wisata jumbuh karo gegayhuan
+This hotel has special rooms that can be rented for weddings, meetings, and other events.	Hotel iki nduweni kamar khusus sing bisa disewakake kanggo pesta pernikahan, rapat lan liya-liyane.
+Hotel Whizz is located in the heart of the city, providing easy access to various places.	Hotel Whizz manggon ing jantung kutha, dadi menehake akses gampang pinuju sawetara panggon.
+Ngawi Indah Hotel and Sukowati Hotel are the 2 hotels most popular with tourists in Ngawi	Hotel Ngawi Indah lan Hotel Sukowati minangka 2 hotel sing paling populer karo turis ing Ngawi
+Restaurants in Hotel Harmoni served a complete breakfast menu with international choices.	Restoran di Hotel Harmoni nglayani menu sarapan lengkap kanthi pilihan internasional.
+A safe is provided in each room for visitors to secure their belongings, in the wardrobe.	Aman diwenehake ing saben kamar kanggo pengunjung kanggo ngamanake barang-barange, ing lemari klambi.
+The housekeeping staff cleans the rooms every day and replaces towels and other amenities.	Staf kebersihan ngresiki kamar saben dina lan ngganti andhuk lan pepakan liyane
+Yes, the deposit will be returned upon check-out provided there are no damaged facilities.	Enggeh, simpenan bakal dibalekake nalika mriksa metu yen ora ana fasilitas sing rusak.
+Some luxury hotels have facilities such as swimming pools, spas and exclusive restaurants.	Beberapa hotel mewah nduweni fasilitas kaya kolam renang, spa, lan restoran eksklusif.
+You can access swimming pool facilities using a special access card provided by the hotel.	Sampeyan bisa ngakses fasilitas kolam renang kanthi nggunakake kertu akses khusus sing diwenehake dening hotel kasebut.
+You can order a room service by calling the room service number listed on your room phone.	Sampeyan bisa ngirim layanan kamar kanthi nelpon nomer layanan ruangan sing kadhaptar ing telpon kamar sampeyan.
+Room Service is a service where food or drink can be delivered directly to the guest room.	Layanan kamar minangka layanan ing endi panganan utawa omben bisa dikirim langsung menyang ruang tamu.
+Cemerlang Hotel offers adventure vacation packages for guests who like outdoor activities.	Hotel Cemerlang nawakake paket liburan petualangan kanggo tamu sing seneng karo kegiatan ruangan.
+Sentosa Hotel provides snorkeling equipment rental facilities for guests who like to dive.	Sentosa Hotel nyedhiyakake fasilitas sewa Snorkeling kanggo tamu sing seneng nyilem.
+Guests at the Harmoni Hotel can enjoy free access to the fitness center during their stay.	Tamu ing Harmoni Hotel bisa nyenengake akses gratis menyang pusat fitness sajrone tetep.
+Hotels in Malang offer a combination of cultural, historical, and amazing natural scenery.	Hotel ing Malang nawakake kombinasi pemandangan budaEnggeh, sejarah, lan apik tenan.
+There is a wedding package, Honeymoon in Bali City, Meeting, Swimming and Swimming Infiniti	Ana paket pahargyan, bulan madu ing kutha bali, patemon, nglangi lan nglangi infiniti
+Hotel meeting room facilities are rooms that can be rented for events or business meetings.	"fasilitas ruwang partemon hotel yaiku ruwang kang oleh disewa kanggo adicara utawa partemon bisnis. 
+"
+Yes, you can request a specific room location, such as a higher floor or near the elevator.	Enggeh, sampeyan bisa njaluk lokasi kamar tartamtu, kayata lantai sing luwih dhuwur utawa cedhak lift.
+Executive rooms come equipped with premium amenities like a minibar and branded toiletries.	kamar eksekutif dijangkepi karo fasilitas premium kaya minibar lan pepakan kulah bermerek
+There are no restrictions on staying at the hotel as long as the visitor pays the room bill.	Ora ana watesan kanggo tetep ing hotel anggere tamu mbayar tagihan kamar.
+You get free pool fried rice + 1 cleo bottle and valid every day operating hours 06.00-18.00	Sampeyan entuk nasi kolam goreng gratis + botol cleo lan bener saben jam operasi 06.00-18.00
+Room conditions and placement are communicated with the receptionist before payment is made.	Reservasi kanggo kondisi lan panggonan kamar disampekno marang resepsionis sadurunge mbayar
+This hotel has 3 restaurants, namely Brance Restaurant, INFINITE8 and Skydome Lounge and Bar	Hotel iki nduweni 3 restoran, yaiku Brance Restaurant, INFINITE8 lan Skydome Lounge and Bar
+The cost of staying at this hotel varies depending on the room type and your visit's timing.	Biaya nginap ing hotel iki beda-beda kalebu kamar sing dipilih lan waktune ngunjungi.
+The hotel offers a range of spa treatments that you should consider trying during your stay.	Hotel iki menawani ragam layanan perawatan spa sing mesthi sampeyan coba nalika nginap.
+In the evening, visitors can head to the rooftop to enjoy coffee and the beautiful night sky.	Ing wengi dina pengunjung oleh pinuju atap kanggo nikmati kopi lan sesawangan langit kang endah
+our hotel is family-friendly with facilities and services suitable for children and families.	Hotel kita banget kulawarga loropaken karo fasilitas lan layanan cocok kanggo anak lan kulawarga.
+The hotel offers speeds that can handle streaming at 1080p in various locations in the hotel.	Hotel iki nawakake kecepatan streaming nganti 1080p ing macem-macem panggonan hotel
+Yes, we have a fitness center equipped with modern equipment for guests who want to exercise.	Enggeh, kita duwe pusat kebugaran sing dilengkapi karo peralatan modern kanggo tamu sing pengin olahraga.
+Hotel Gunung has its own hiking path that invites guests to explore the natural surroundings.	Hotel Gunung duwe dalan hiking dhewe sing ngajak para tamu kanggo njelajah sakcedhake alam.
+The Bintang Hotel restaurant serves a tempting dessert to satisfy the sweet tastes of guests.	Restoran Hotel Bintang ngladeni panganan cuci mulut kanggo nyukupi rasa tamu sing manis.
+Yes, the hotel is a non-smoking establishment. Smoking is only permitted in designated areas.	Enggeh, hotel iki arep tansah tanpa perokok. Merokok cuman diizinkan ing wilayah sing ditetapake.
+Hotels are often the main place for travelers to rest and feel comfort during their vacation.	Hotel asring dadi papan utama para wisatawan kanggo ngaso lan rumangsa kepenak sajrone liburan.
+"Make sure not to leave personal belongings behind and pay the bill before leaving the room. 
+"	pastekake ora ninggalake barang-barang pribadi lan bayar tagihan sakdurunge ninggalake kamar
+The hotel staff is very friendly and ready to assist in making your experience more enjoyable.	Staf hotel iki ramah banget lan siap nulung supaya pengalaman Sampeyan luwih seneng.
+The meeting facilities at this hotel are suitable for business conferences and special events.	Fasilitas pertemuan ing hotel iki cocok kanggo konferensi bisnis lan acara khusus.
+In Lombok, you can find exclusive hotels that offer beautiful views, such as The Lombok Lodge.	apa kang nggawe hotel-hotel eksklusif ing lombok, kaya the lombok lodge, mangkono istimiwa
+Hotel parking usage incurs an overnight fee that will be charged upon exiting the parking lot.	Panggunaan parkir hotel bakal dikenani biaya saben wengi sing bakal diwenehno tagihan e nalika ninggalake parkir
+Hotel Santika offers an exclusive vacation package for guests who stay more than three nights.	Hotel Santika menawarkan paket liburan eksklusif untuk tamu yang menginap lebih dari tiga malam.
+The Fitness Center near Hotel Whizz provides various modern equipment to help maintain health.	Pusat kebugaran ing cedhak hotel whizz nyediakake sawetara piranti modhern dadi ngrewangi njaga kesehatan
+Guests at the Sejati Hotel can order a shuttle service to the nearest playground for children.	Tamu ing Hotel Sejati bisa menehi layanan anter jemput kanggo dolanan sing paling cedhak kanggo bocah-bocah.
+Pesona Hotel offers an adventure vacation package that includes hiking activities to the wild.	Hotel Pesona nawakake paket liburan petualangan sing kalebu kegiatan hiking menyang alam bébas.
+Some hotels offer discounts for long-term bookings, especially if you stay for several nights.	Sawetara hotel nyedhiyakake diskon kanggo pemesanan jangka panjang, luwih apik yakuwi sampeyan nginap sawetara dina.
+Some hotels have easy access to train stations, such as hotels near Gambir Station in Jakarta.	Sawetara hotel duwe akses gampang kanggo stasiun kereta api, kaya hotel kanggo ing deket Stasiun Gambir ing Jakarta.
+Some hotels offer massage or spa services within the hotel. You can inquire at the front desk.	Sawetara hotel duwe layanan pijat utawa layanan spa ing hotel. Sampeyan bisa ndeleng ing meja resepsionis.
+This hotel provides special events at certain moments such as Eid al-Fitr, Halloween, New Year	Hotel iki nyedhiyakake acara khusus ing wektu tartamtu kayata Idul Fitri, Halloween, Taun Anyar
+Belitung Island has a number of beautiful beach hotels, such as Fairfield by Marriott Belitung.	apa kang nggawe hotel pantai ing pulo belitung, kaya fairfield by marriott belitung, mangkono menarik ?
+Belitung Island has a number of beautiful beach hotels, such as Fairfield by Marriott Belitung.	apa kang nggawe hotel-hotel pantai ing pulo belitung, kaya fairfield by marriott belitung, mangkono unik lan nari
+They offer various types of rooms, from standard rooms to luxury villas with spectacular views.	dheweke kabeh nawakake sawetara tipe kamar, wiwit saka kamar standar nganti villa mewah karo sesawangan spektakuler.
+Special swimming package for the public at the Solaris Kuta Hotel with only IDR 55,000 nett/pax	Paket Kolam Renang Khusus kanggo Public ing Bangkok Kuta Hotel kanthi mung 55.000 Nett / Pax
+Sorry, for places of worship can go to the mosque which is located 200 meters behind this hotel	Nyuwun sewu, kanggo panggonan ibadah bisa menyang masjid sing ana 200 meter ing mburi hotel iki
+it can accommodate up to 3,500 guests and is decorated with high ceilings and luxurious touches	bisa nampung nganti 3.500 tamu lan dihiasi karo langit-langit dhuwur lan sentuhan mewah
+Currently, we have a promotion where you can stay for three nights and only pay for two nights.	Saiki, kita duwe promosi dhumateng nginap selama telung dina lan munggah bayar dhewe.
+Pillow menu is a different pillow list that you can choose according to your sleep preferences.	Menu bantal minangka dhaptar bantal sing beda-beda sing bisa dipilih miturut pilihan turu sampeyan.
+Yes there is, the biggest ballroom in the Grand Dafam Q Hotel can accommodate 800 people in it.	Enggeh, ana ruangan ruangan paling gedhe ing Hotel Grand Dafam Q bisa nampani 800 wong ing.
+Rooms at Purnama Hotel are equipped with modern facilities such as flat -screen TV and minibar.	Kamar ing Hotel Purnama dilengkapi fasilitas modern kayata TV flat -screen lan minibar.
+Room service at Hotel Seruni provides a healthy food menu for guests who care about their diet.	Layanan kamar ing hotel Seruni nyedhiyakake menu panganan sing sehat kanggo tamu sing peduli karo panganan.
+Room service at Sentosa Hotel can provide breakfast to the guest room according to their order.	Layanan kamar ing Sentosa Hotel bisa nyedhiyani sarapan menyang ruangan tamu miturut pesenan kasebut.
+The concierge service at the hotel will be happy to help you plan activities outside the hotel.	Layanan concierge hotel bakal seneng dhatengi njalari sampeyan nggawe rencana aktivitas ing luar hotel.
+In each room there is a water heater that visitors can use to make coffee, tea or other things.	Ing saben kamar ana water heater sing bisa digunakake pengunjung kanggo nggawe kopi, teh utawa liyane.
+Restaurants in Malang hotels serve delicious dishes, including local and international culinary.	Restoran di Malang Hotels Nawakake Pasangan sing enak, kalebu kuliner lokal lan internasional.
+Yes, tourist guides and city maps are typically available in the lobby or at the reception desk.	iya panduan wisata lan peta kutha biasane ana ing lobi utawa ing meja resepsionis
+Guests can use the hotel safe to store their valuables and always lock their room door securely.	tame oleh migunakake brangkas hotel kanggo nyimpen barang berharga lan tansah ngunci lawang kamar
+You can access free Wi-Fi by entering the access code given by the receptionist during check-in.	Sampeyan bisa ngakses Wi-Fi gratis kanthi ngetik kode akses sing diwenehake dening resepsi nalika mriksa-in.
+Big cities like Surabaya have a choice of luxury hotels that are suitable for business tourists.	Kutha-kutha gedhe kaya Surabaya duwe pilihan hotel mewah sing cocog kanggo turis bisnis.
+Guest safety is a top priority at the hotel to ensure a safe and comfortable tourism experience.	Safety tamu minangka prioritas utama ing hotel kanggo njamin pengalaman pariwisata sing aman lan nyaman.
+The hotel rooms are equipped with modern amenities such as flat-screen TVs and free Wi-Fi access.	Kamar-kamar hotel dilengkapi karo fasilitas modern kayata TV layar datar lan akses Wi-Fi gratis.
+Things that must be considered are the facilities provided by the hotel for business travel needs	Hal seng kudu diperhatikno yaiku fasilitas sing dikekno hote gawe kebutuhan penggawean
+Yes, we provide breakfast for our guests. Breakfast is available in our restaurant every morning.	Enggeh, kita nyediakake sarapan kanggo tamu kita.
+Yes, some hotels offer cultural experience programs such as traditional Balinese cooking courses.	Enggeh, sawetara hotel nawakake program pengalaman budaya kayata kursus masak tradisional Bali tradisional.
+Guests at the Asri Hotel can order a bicycle tour around the city to explore tourist attractions.	Para tamu ing hotel Asri bisa pesen wisata sepeda kutha kanggo njelajah obyek wisata.
+Restaurants at Hotel Santosa serves regional dishes with authentic flavors and fresh ingredients.	Restoran ing Hotel Santosa nglayani piring regional kanthi rasa asli lan bahan seger.
+Tourism at the hotel refers to the experience of guests staying at the hotel during their travel.	Pariwisata ing hotel kasebut nuduhake pengalaman tamu sing tetep ing hotel sajrone lelungan.
+A diverse selection of hotels allows tourists to choose according to their budget and preferences.	Pilihan hotel sing beragam memungkinkan wisatawan kanggo milih miturut anggaran lan preferensi.
+If you lose your room key, you must immediately notify the hotel reception so they can replace it.	sampeyan kilangan kunci kamar cepetan kondo nang respsionis hote supoyo iso di ganti
+Restaurants at Hotel Gunung provide a healthy breakfast menu with organic and gluten-free choices.	Restoran ing hotel Gunung nyedhiyakake menu sarapan sing sehat kanthi pilihan sing gratis organik lan gluten.
+Yes, this hotel provides airport shuttle services. You can contact them for the schedule and cost.	Enggeh, hotel iki ngadegake layanan antar-jemput bandara. Sampeyan bisa njaluk kanthi jadwal lan biaya.
+You can order late-night snacks through room service or fill in orders through the available forms.	Sampeyan bisa ngirim cemilan wengi ing wayah wengi liwat layanan ruangan utawa ngisi pesenan liwat formulir sing kasedhiya.
+Restaurants in Hotel Santosa often hold cooking courses for guests who want to learn local cuisine.	Restoran di Santosa asring golek kursus masak kanggo tamu sing pengin sinau masakan lokal.
+The nearest hotel to Monas in Jakarta is a hotel located around Gambir, the city center of Jakarta.	Hotel paling adoh karo Monas ing Jakarta yaiku hotel sing ana ing pinggiran Gambir, pusat kota Jakarta.
+Bali has many hotels suitable for weddings, including resorts with beautiful beaches as a backdrop.	Bali ana sawetara hotel kanggo pangelaran pernikahan, kalebu resor karo segara kanggo latar belakang.
+Hotels keep their rooms clean by cleaning, laundering linens, and disinfecting the space regularly.	"hotel njaga kebersihan kamar-kamar dheweke kabeh karo ngresiki, ngumbah linen, lan mendisinveksi ruwang kanthi teratur.
+"
+The location is right at the T -junction of Jalan Sarangan next to the Garuda Indonesia travel agent	Lokasi kasebut pas ing pertelon saka Jalan Sarangan Sabanjure kanggo Agen Wisata Garuda Indonesia
+A "Sommelier" is a wine expert who helps guests choose and serve wine that matches the food ordered.	Sommelier minangka ahli anggur sing mbantu para tamu milih lan ngladeni anggur sing cocog karo panganan sing diwenehake.
+The pool at this hotel is very spacious and suitable for relaxing after a day of exploring the city.	Kolam renang ing hotel iki gedhe banget lan pas kanggo nyantai sakmarine muter - muter kutha.
+The distance between the Episode Kuta Bali hotel and Ngurah Rai International Airport is only 3.4 km	Jarak hotel Episode Kuta Bali lan Bandara Internasional Ngurah Rai mung 3,4 km
+Tugu Malang Hotel combines history and art in its design, creating a unique experience for visitors.	kepriye desain hotel tugu malang?
+Our guests can easily access Juanda International Airport as it is located quite close to the hotel.	Para tamu bisa gampang ngakses Bandara Internasional Juanda amarga cukup cedhak karo hotel
+There are several family-friendly hotels in Yogyakarta, including hotels with children's play areas.	Ana sawetara hotel sing cocok kanggo keluarga ing Jogja, kalebu hotel sing duwe fasilitas mainan anak-anak.
+You can find hotels with beautiful views in Lembang by looking for hotels located in highland areas.	Sampeyan bisa nggoleki hotel karo pemandangan segara ing Lembang nganggo nggoleki hotel sing ana ing tanjakan tinggi.
+You can book a room at this hotel through our official website or call the telephone booking service.	Sampeyan bisa Book kamar ing hotel iki liwat website resmi utawa hubungi layanan pesenan telpon.
+at the Aura House Bali hotel offers the sensation of staying in a building almost 100% made of bamboo	ing hotel Aura House Bali nawakake sensasi nginep ing bangunan meh 100% digawe saka pring
+Hotels in Ubud, such as Viceroy Bali, offer peace and natural beauty in the middle of the rainforest.	apa kang nggawe hotel-hotel ing ubud, kaya viceroy bali, dadi pilihan kang ideal?
+Visitors can use price comparison websites or hotel booking apps to find hotels that fit your budget.	pengunjung oleh migunakake situs web bandingan rega utawa aplikasi pemesanan hotel kanggo nemu hotel kang jumbuh karo gegayuhan
+I feel that the building looks good and indicates the facilities inside are also certainly very good.	Aku rumangsa yen bangunan katon apik lan nuduhake fasilitas ing njero uga mesthi apik.
+This hotel is located between heavily visited beach and malls so the hotel rooms are always occupied.	Hotel iki dumunung ing antarane pantai lan mall sing rame banget karo turis saengga kamar hotel tansah kebek
+The toilet facilities are guaranteed to be clean because the staff checks and cleans them every hour.	Fasilitas toilet dijamin resik amarga petugas tansah mriksa lan ngresiki saben jam
+One of the advantages of this hotel is that it has easy access to the Angkut Museum and Jatim Park 2.	Salah sawijining kaluwihan hotel iki yaiku akses gampang menyang Museum Angkut lan Jatim Park 2.
+The best tourist areas in Bali to find hotels including Kuta, Seminyak, Ubud, Nusa Dua, and Jimbaran.	Wilayah turis paling apik ing Bali kanggo Golek hotel kalebu Kuta, Seminyak, Ubud, Nusa Dua, lan Jimbaran.
+Guests at Sejati Hotels can enjoy water sports such as jet skiing and parasailing at the hotel beach.	Tamu ing Hotel Sejati bisa nyenengake olahraga banyu kayata jet ski lan parasailing ing pantai hotel.
+Hotels sometimes hold special events and entertainment to entertain tourist guests during their stay.	Hotel kadang duwe acara khusus lan hiburan kanggo nglipur tamu turis nalika tetep.
+The hotel is conveniently located near a famous shopping center, making it easy to shop for souvenirs.	Hotel iki wedi ditemokake dhisik karo pusat perbelanjaan sing terkenal, jadi gampang kanggo belanja oleh-oleh.
+Our reception staff is always ready to assist guests in booking taxis or other private transportation.	Staff meja ngarep tansah siyap ngewangi tamu ing pesenan taksi utawa transportasi pribadi liyane.
+Each room is equipped with a telephone to contact the receptionist for guests needs during their stay.	Saben kamar duwe telpon kanggo ngubungi resepsionis babagan kabutuhan tamu sajrone nginep.
+Check-in time typically starts at 2:00 PM, but we will try to accommodate early check-ins if possible.	Waktu check-in biasane dimulai ing jam 2:00, nanging kita bakal nyoba kanggo ngrampungake check-in munggah yuta yen bisa.
+Guests at Hotel Mawar can visit their fitness center which is equipped with a professional instructor.	Tamu ing Hotel Mawar bisa ngunjungi pusat fitness sing dilengkapi instruktur profesional.
+Taman Safari Bogor is located near several hotels in Cisarua, Bogor, such as Pesona Alam Resort & Spa.	Taman Safari Bogor ana ing deket sawetara hotel ing Cisarua, Bogor, kaya Pesona Alam Resort & Spa.
+There are restaurants such as Burger Buto and Presidential Meatballs on the edge of the railroad tracks	Ana restoran kayata burger buto lan bakso presiden ing pojok rel kreta
+because Mara River Safari offers the sensation of staying at a hotel accompanied by safari park animals	amarga Mara River Safari nawakake sensasi nginep ing hotel sing diiringi kewan taman safari
+The hotel has a spacious and secure parking facility, so guests with private vehicles can rest assured.	Hotel iki nduweni fasilitas parkir sing wiyar lan aman, saengga para tamu sing nggawa kendaraan pribadi bisa krasa ayem.
+We offer a range of family-friendly amenities and activities, including a kids' club and family suites.	hotel nawakake sawetara fasilitas lan aktivitas keramah kulawarga kalebu klub bocah-bocah lan suite kluarga
+Hotels in Ngawi attract tourists because of their affordable prices and good views with quality service	Hotel ing Ngawi narik kawigaten para wisatawan amarga regane terjangkau lan pemandangan sing apik kanthi layanan sing berkualitas
+Guest house usually offers a experience stay at home, while in the hotel design all rooms are the same.	Tamu omah biasane nawakake pengalaman tetep ing omah, nalika ing desain hotel kabeh kamar padha.
+Pesona Hotel has a meeting room with the latest audio-visual technology for successful business events.	Hotel Pesona duwe ruangan rapat karo teknologi audio-visual paling anyar kanggo acara bisnis sing sukses.
+Hotel administration managers use PMS to manage room inventory, manage availability, and manage orders.	Managers Administrasi Hotel nggunakake PM kanggo ngatur persediaan kamar, ngatur kasedhiyan, lan ngatur pesenan.
+Hotels with fitness centers in Semarang include Hotel Crowne Plaza Semarang and Hotel Novotel Semarang.	Hotel karo pusat kebugaran ing Semarang kalebu Hotel Crowne Plaza Semarang lan Hotel Novotel Semarang.
+What is the variety of accommodation offered by tourist hotels in Indonesia, and what makes them unique?	hotel wisata ing indonesia nawakake sawetara jinis akomodasi, wiwit saka resor mewah nganti vila eksklusif.
+The food provided consists of various international cuisines suitable for both local and foreign guests.	Panganan sing disedhiyakake yaiku macem-macem masakan internasional sing cocog kanggo tamu lokal lan manca
+The most frequently used facilities by visitors are the swimming pool and hot spring with natural theme.	Fasilitas ingkang asring dipunginakaken dening para pengunjung inggih menika kolam renang lan sumber air panas ingkang raosipun alam
+The wedding package at the Amandjiwo Hotel includes luxurious decorations and premium catering services.	Paket pernikahan di Hotel Amandjiwo sudah termasuk dekorasi yang mewah dan layanan catering premium.
+Guests can cancel or modify their reservations up to 24 hours before check-in with no additional charges.	oleh mbatalne utawa ngowah reservasi deweke kabeh saengga 24 jam sadurunge jahit tanpa ragat tambahan
+There are many good three-star hotels in Surabaya with various amenities. You can search for them online.	Ana sawetara hotel bintang tiga sing apik ing Surabaya kanthi berbagai fasilitas. Sampeyan bisa nggoleki nalika online.
+Climbing Mount Rinjani is an extraordinary adventure, and hotels in Lombok are ready to welcome climbers.	Menek Gunung Rinjani minangka petualangan sing luar biasa, lan hotel ing Lombok wis siyap kanggo pendaki welcome.
+They reflect the diversity of Indonesian culture in their architecture, decoration and culinary offerings.	dheweke kabeh nyerminake maneka-warna budaya indonesia jero arsitektur, dekorasi, lan kuliner kang ditawakake.
+Bicycles are available for rent for guests who wish to explore the surrounding area in eco-friendly style.	Terdapat sepeda yang bisa disewa untuk tamu yang ingin menjelajahi daerah sekitar hotel dengan gaya yang ramah lingkungan.
+Very broad and even neat because there is someone who is specially tasked with organizing the parking lot.	Banget banget lan uga rapi amarga ana wong sing ditugasake kanthi ngatur parkir.
+If you are bothered by noise from neighboring rooms, you can contact the hotel reception to request action	menawa panjenengan keganggu dening swara saka kamar tetangga, panjenengan oleh menghubungi resepsionis hotel kanggo nyuwun tumindak
+The Restaurant at the Excellent Hotel serves a special district's special dish with a unique modern touch.	Restoran ing hotel sing apik banget lan sajian distrik khusus kanthi sentuhan modern sing unik.
+The nearest hotel to Dieng Plateau is Hotel Dieng, which is about 1 kilometer from the tourist attraction.	Hotel sing paling adoh karo Obyek Wisata Dataran Dieng yaiku Hotel Dieng, sing ana sawetara 1 kilometer saka obyek wisata.
+For hotels with private swimming pools in Bali, you can search for private villas that offer this feature.	Kanggo hotel karo kolam renang pribadi ing Bali, sampeyan bisa nggoleki vila pribadi sing nyedhiyakake fasilitas iku.
+Telephones are available in each room to contact the reception regarding visitors' needs during their stay.	Ana telefon ing saben kamar kanggo menghubungi resepsionis ngenani kabutuhan pengunjung selama nginep
+Accommodation in Malang can be adjusted to various budgets, ranging from luxury to budget-friendly lodging.	Akomodasi ing Malang bisa diatur kanggo macem-macem anggaran, wiwit mewah nganti lodging sing ramah anggaran.
+Guests can book a car or bicycle rental service from the hotel to explore the surrounding area more freely.	Tamu bisa pesen layanan rental mobil utawa pit saka hotel kanggo njelajah wilayah saubengé luwih bebas.
+This hotel has a well-maintained private park that is well treated every day making it pleasant to look at.	Hotel iki nduweni taman pribadi sing dijaga saben dina supaya nyaman kanggo disawang
+Breakfast at Hotel's Raodah restaurant offers a variety of internation dishes that suit the Indonesia palate	Sarapan ing restoran hotel Raodah menehi macem-macem panganan internasional seng cocok kanggo ilat wong indonesia
+Indonesia also has international standard hotels that are suitable for business meetings and special events.	indonesia uga nduweni hotel berstandar internasiyonal kang cocog kanggo partemon bisnis lan adicara mligi.
+The hotel offers different types of rooms, ranging from standard rooms to luxurious suites with great views.	Hotel iki nawakake macem-macem jinis kamar, saka kamar standar nganti suite mewah kanthi pemandangan sing apik.
+You can find hotels near Soekarno-Hatta Airport by using websites like Agoda or by contacting nearby hotels.	Sampeyan bisa nggoleki hotel munggah Bandara Soekarno-Hatta nganggo situs web kaya Agoda utawa nganggo hotel sing paling adoh.
+The travel time from this hotel to Ngurah Rai Airport is usually around 30-45 minutes, depending on traffic.	Waktu perjalanan saka hotel iki menyang Bandara Ngurah Rai biasane luwih kurang saka 30-45 menit, tergantung lalu lintas.
+During check-in, I was assisted by several staff members; they gave me the room key and guided me to my room.	Nalika mriksa, aku dilayani dening sawetara petugas; padha menehi kula kunci kamar lan ngarahake kula menyang kamar
+Room Service is a service at a hotel that allows guests to order food and drinks to be served in their rooms.	Layanan kamar minangka layanan ing hotel sing ngidini tamu supaya bisa menehi panganan lan omben-omben supaya bisa disuguhake ing kamar.
+People from the cities of Grobogan, Blora and Bojonegoro are the ones who most often visit the Sukowati Hotel	Wong-wong saka kutha Grobogan, Blora lan Bojonegoro sing paling kerep dolan menyang Hotel Sukowati.
+Access to the exclusive floor provides additional facilities, such as exclusive lounges or special breakfast.	Akses menyang lantai eksklusif nyedhiyakake fasilitas tambahan, kayata lenggahan eksklusif utawa sarapan khusus.
+You can order food delivery services at the hotel via the in-room menu or by contacting the hotel restaurant.	panjenengan oleh mesen layanan pesen antar panganan ing hotel liwat menu ing kamar utawa karo menghubungi restoran hotel.
+A hotel administration manager is responsible for managing administrative and operational tasks at the hotel.	Manajemen administrasi hotel tanggung jawab kanggo ngatur tugas administratif lan operasional ing hotel kasebut.
+International students who work at Malang State University usually live in International or Edelwis Dormitory.	Mahasiswa internasional sing kerja ing Universitas Negeri Malang biasane manggon ing Asrama Internasional utawa Edelwis.
+Breakfast at the hotel's restaurant is delicious and diverse, with choices of local and international cuisine.	Sarapan ing restoran hotel iki enak banget lan macem-macem, karo pilihan manganan lokal lan internasional.
+The hotel provides the option for guests to have their clothes either collected or handed over to hotel staff.	Hotel menehi pilihan kanggo dijukukke sandhangan sing reged utawa dipasrahake marang staf hotel dhewe
+Daily Turndown Service is a service where hotel staff reset your room every day as long as you are not inside.	Layanan turndown saben dina yaiku layanan ing ngendi staf hotel ngreset kamar sampeyan saben dina yen sampeyan ora ana ing njero.
+The hotel offers a variety of facilities, allowing guests to have various exciting experiences such as the spa.	Hotel iku duwe fasilitas sing macem-macem, pengunjung bakal oleh pengalaman sing menarik kaya spa.
+Yes there is, the Fugo Banjarmasin Hotel is a hotel that is integrated with the Banjarmasin Mall Duta Building.	Enggeh, ana hotel Fugo Banjarmasin minangka hotel sing Integrasi karo Bangunan Banjarmasin Mall Duta.
+In the hotel's restaurants, a smart casual dress code or one in line with the restaurant's theme is applicable.	Ing restoran hotel iki, ana aturan berpakaian smart casual utawa sesuai karo tema restorane sing berlaku.
+Hotel administration managers monitor the income, expenditure and hotel budget to ensure finances run smoothly.	Managers Administrasi Hotel Monitor penghasilan, pengeluaran lan anggaran hotel kanggo njamin keuangan mbukak lancar.
+Yes, there may be a luggage storage facility available. It's best to check with the hotel for specific details.	Enggeh, bisa uga ana fasilitas panyimpenan koper sing kasedhiya. Sing paling apik yaiku mriksa karo Hotel kanggo rincian tartamtu.
+The St. Regis Bali Resort is one of the luxury destinations that offers white sand beaches and special services.	apa kang nggawe the st. regis bali resort dadi salah siji destinasi mewah kang menonjol?
+Yes, we have lounge areas and terraces that offer beautiful views, so guests can relax and enjoy the atmosphere.	Enggeh, kita nduweni area bersantai lan emper kang nawakake sesawangan endah saengga tamu oleh bersantai lan nikmati swasana
+Front desk is a hotel reception area where guests check-in, check-out, and get information about hotel services.	Mejo ngarep minangka area resepsi hotel ing ngendi tamu mriksa, mriksa-metu, lan entuk informasi babagan layanan hotel.
+Hotels suitable for family vacations in Bandung include hotels with children's play areas and family activities.	Hotel kanggo liburan keluarga ing Bandung kalebu hotel kanggo karo taman mainan bocah lan kegiatan keluarga.
+The hotel is located near the sea, so when you look out of the window, you will see the view of Balekambang beach	Hotel iku ono ing cedhak segara, dadi yen awakmu ndelok ing arah jendhela awkmu bakal ndelok pemandangan pantai balekambang
+Jakarta is the capital of Indonesia, offering a variety of luxurious hotels with comprehensive modern facilities.	jakarta yaiku ibu kutha indonesia kang nduweni macem-macem hotel mewah karo fasilitas modhern kang pepak
+Breakfast consumption may incur an additional charge if guests request something beyond the pre-selected package.	Mangan sarapan iso dikenani tagihan maneh yen tamu njaluk soko ing njaba paket sing wis dipilih sadurunge
+Hotel luggage storage service is a service where hotels store guests' luggage before check-in or after check-out.	Layanan nyimoennbagasi ning hotel yoiku nyimpen bagasi ne tamu sak gurung e tamu melbu kamar
+If the air conditioning in the hotel room is not working properly, you can contact the hotel reception for repair	menawa ac ing kamar hotel ora fungsi karo apik, panjenengan oleh menghubungi resepsionis hotel kanggo perbaikan
+Hotel luggage storage service is a service where hotels store guests' luggage before check-in or after check-out.	layanan panyimpenan bagasi hotel yaiku layanan ing endi hotel nyimpen bagasi tamu sadurunge check-in utawa sawise check-out.
+The best time to book a hotel in Bali is a few months before the holiday season or when there are special offers.	Wonge luwih apik kanggo ngepèni hotel ing Bali yaiku sawetara mangsa sadurunge musim pangelaran utawa nalika ana tawaran spesial.
+Student Park Hotel is a cozy hotel. The hotel is located in the center of Yogyakarta so it can be accessed easily.	Student Park Hotel yaiku hotel kang kepenak. Hotel iki papan ing pusat kutha Yogyakarta saengga oleh diakses karo gampang.
+The strategic location of this hotel provides easy access to the city's main attractions and famous tourist spots.	Posisi strategis hotel iki nggampangake akses menyang atraksi utama ing kutha lan tempat wisata sing kawentar.
+This hotel has dedicated rooms and facilities for children to ensure providing comfort for guests of various ages.	Hotel iki nduweni kamar lan fasilitas khusus kanggo bocah-bocah supaya bisa menehi kenyamanan marang tamu saka macem-macem umur
+If the air conditioning in the hotel room is not working properly, you can contact the hotel reception for repair.	menawa ac ing kamar hotel ora fungsi karo apik, panjenengan oleh menghubungi resepsionis hotel kanggo perbaikan.
+To get special offers, you can sign up as a member on booking websites or follow the hotel's social media accounts.	Kanggo nyedhiyakake tawaran spesial, sampeyan bisa ndaftar minangka anggota ing situs web pemesanan utawa ngikuti akun sosial media hotel.
+There are hotels suitable for solo travel in SurabaEnggeh, especially in the city center or around Jalan Raya Darmo.	Ana hotel kanggo travel solo ing SurabaEnggeh, utamane hotel sing ana ing pusat kota utawa ing deket Jalan Raya Darmo.
+Around the swimming pool there is a scenic environment closely connected to nature and various water play equipment.	Ing sakubenge kolam renang ana pemandangan sing cedhak karo nuansa alam lan macem-macem barang dolanan banyu
+because Ngawi has a large choice of tourist destinations and attracts tourists, especially during the holiday season	amarga Ngawi nduweni akeh pilihan panggonan wisata lan narik kawigaten wisatawan, utamane nalika musim liburan
+Some hotels provide this facility, such as areas for wheelchairs, large elevators and easily accessible lobby areas.	Sawetara hotel nyedhiyakake fasilitas iki, kayata wilayah kanggo kursi rodha, flojeksial gedhe lan wilayah lobi sing gampang diakses.
+The hotel offers top-notch facilities including an infinity pool, a Michelin-starred restaurant, and a luxurious spa.	Hotel iki menawani fasilitas unggulan, kalebu kolam renang infinity, restoran bintang Michelin, lan spa kemewahan.
+Yes, you can request a late check-out. Availability may vary, so it's recommended to check with the hotel in advance.	Enggeh, sampeyan bisa njaluk priksa pungkasan. Kasedhiyan bisa beda-beda, saengga luwih becik dipriksa nganggo hotel dhisik.
+Not all hotels have these facilities, but in general meeting room facilities are available in 3 star hotels and above.	Ora kabeh hotel duwe fasilitas kasebut, nanging ing fasilitas kamar rapat umum kasedhiya ing hotel bintang 3 lan ndhuwur.
+The rich culture and friendliness of the people of Ngawi make the experience of staying at local hotels unforgettable.	Kasugihan budaya lan keramahan warga Ngawi ndadekake pengalaman nginep ing hotel lokal ora iso dilalekake.
+Late check-out is a provision where guests are given extra time to leave the hotel room after standard check-out time.	Pungkasan priksa minangka panentu ing ngendi tamu diwenehi wektu tambahan kanggo ninggalake ruangan hotel sawise wektu mriksa standar.
+In Bali, you can find the best hotels by searching on hotel booking websites such as Booking.com, Agoda, or Traveloka.	Ing Bali, sampeyan bisa ndeleng hotel terbaik nganggo metu ing situs web pemesanan hotel kaya Booking.com, Agoda, utawa Traveloka.
+You can contact our special events department for further details and to book your desired vacation or wedding package	Sampeyan bisa ngubungi departemen acara khusus kanggo rincian luwih lengkap lan pesen paket liburan utawa wedding sing dikarepake
+Early check-in is a provision in which guests are given permission to enter the room before the standard check-in time.	Priksa awal yaiku panentu sing diwenehi ijin kanggo mlebu ing kamar sadurunge mriksa standar.
+24-hour concierge service is a service that is available around the clock to assist guests with requests and questions.	layanan concierge 24 jam yaiku layanan kang ana sakdawane wayah kanggo ngrewangi tamu karo panjalukan lan pitakon.
+The hotel has different cancellation policies, so be sure to read the terms and conditions before making a reservation.	Hotel iki menehi kebijakan pembatalan sing beda-beda, pastikan sampeyan mbenali syarat lan ketentuan sadurunge ngajukan pesenan.
+Housekeeping Management is part of the hotel administration that manages room cleaning services and hotel public areas.	Manajemen pengawasan yaiku bagean saka petugas hotel sing ngatur layanan pembersihan ruangan lan wilayah umum.
+I recommend hotels in the Senggigi area in Lombok as they are close to the beach and offer a variety of accommodations.	Aku sarankan hotel ing wilayah Senggigi, Lombok, amarga ana dhisik ngambang lan ana sawetara pilian akomodasi.
+There are various public transportation options near the hotel, such as bus stops so guests can easily explore the city.	Terdapat berbagai pilihan transportasi umum di dekat hotel, seperti halte bus sehingga tamu dapat dengan mudah menjelajahi kota.
+During registration will be assisted by a staff member who will provide with the room key and help bring the belongings.	Samarine daftar bakal dilayani dening petugas sing bakal menehi kunci kamar lan mbantu nggawa barang
+There are many affordable and comfortable hotels in Bandung; you can search for them on booking websites or mobile apps.	Ana sawetara hotel sing cocok lan terjangkau ing Bandung, sampeyan bisa nggoleki ing situs web pemesanan utawa aplikasi pon.
+The hotel has subpar service and high rental rates with aging facilities that are considered not worth the price offered.	Hotel kasebut nduweni layanan sing ora apik lan rega sewa sing dhuwur kanthi fasilitas lawas saengga dirasa ora cocog karo rega sing ditawakake
+Yes there is, there is a cinepolis on the 3rd floor of the mall which is connected directly with the Grand Dafam Q Hotel.	Ya ana, ana cinepolis ing lantai 3 saka mall sing disambung langsung karo hotel Grand Dafam Q.
+For a romantic getaway in Bali, you can search for hotels that offer romantic packages or private villas with a sea view.	Kanggo pangelaran romantis ing Bali, sampeyan bisa nggoleki hotel sing nawa paket romantis utawa vila pribadi karo pemandangan segara.
+The room may have either a bathtub or just a shower in the bathroom. It would be best to check with the hotel to confirm.	Kamar bisa uga duwe bathtub utawa mung adus ing jedhing. Luwih becik mriksa karo hotel kanggo konfirmasi.
+Room service is a popular feature in hotels for guests who want to relax after a full day exploring tourist destinations.	Layanan kamar minangka fitur populer ing hotel kanggo tamu sing pengin santai sawise ngrampungake tujuan wisata.
+Private Balcony is a private balcony found in several hotel rooms, which allows guests to enjoy the view from their rooms.	Balkon pribadi minangka balkon pribadi sing ditemokake ing pirang-pirang kamar hotel, sing ngidini tamu seneng ndeleng tampilan saka kamar.
+Complaints related to guest invoices must be handled quickly and by checking transaction records to ensure their accuracy.	Keluhan sing ana gandhengane karo invoice tamu kudu ditangani kanthi cepet lan kanthi mriksa cathetan transaksi kanggo njamin akurasi kasebut.
+The hotel management system is software used to manage hotel daily operations, such as reservations, check-in, and billing.	Sistem Manajemen Hotel minangka piranti lunak sing digunakake kanggo ngatur operasi saben dina, kayata leladen, check-in, lan tagihan.
+Yes, there may be a complimentary breakfast included with the room. It's best to check with the hotel for specific details.	Enggeh, bisa uga ana sarapan gratis sing kalebu ing kamar. Sing paling apik yaiku mriksa karo Hotel kanggo rincian tartamtu.
+Guests can contact the front desk or customer service staff for assistance in resolving issues or answering their questions.	tamu oleh ngehubungi sarta resepsionis utawa laynanan pelanggan kanggo ngolehake rewangan jero ngerampungake masalah utawa njawab pitakon deweke kabeh
+For many guests, the hotel is the starting point for exploring the attraction of local tourism and the activities around it.	Kanggo akeh tamu, hotel minangka titik wiwitan kanggo njelajah atraksi pariwisata lokal lan kegiatan ing saubenge.
+There are many hotels suitable for business travel in SurabaEnggeh, especially in the city center or near business districts.	Ana sawetara hotel sing cocok kanggo bisnis travel ing SurabaEnggeh, amarga ana ing pusat kota utawa deket pusat bisnis.
+Golden Tulip Holland Resort Batu is located at Jl. Cherry No.10 Panderman Hills, Temas, Kec. Batu, Batu City, East Java 65314	Golden Tulip Holland Resort Batu alamate ing Jl. Cherry No.10 Panderman Hills, Temas, Kec. Batu, Kota Batu, Jawa Timur 65314
+Some hotels that offer exclusive honeymoon packages in Bali include Ayung Resort Ubud, Viceroy Bali, and The Samaya Seminyak.	Sawetara hotel sing nawakake paket bulan madu eksklusif ing Bali kalebu Ayung Resort Ubud, Viceroy Bali, lan Samaya Seminyak.
+Some hotels in particular target tourists with certain themes, such as beach resorts, mountainous hotels, or historic hotels.	Sawetara hotel kanggo turis target tartamtu kanthi tema tartamtu, kayata Resor pantai, hotel pantai, utawa hotel bersejarah.
+There is also a food delivery service provided there, contact the receptionist and you will be served according to your needs	Ana uga layanan pangiriman panganan sing kasedhEnggeh, hubungi resepsionis lan sampeyan bakal dilayani miturut kabutuhan
+To find hotels near shopping centers in Jakarta, you can search for hotels in the Thamrin area or around Grand Indonesia Mall.	Kanggo hotel deket pusat perbelanjaan ing Jakarta, sampeyan bisa nggoleki hotel ing wilayah Thamrin utawa ing deket Grand Indonesia Mall.
+Tourism hotel staff tend to be knowledgeable about local culture and are always ready to assist guests in planning their visit.	staf hotel pariwisata rada berpengetahuan ngenani budaya lokal lan tansah siyap ngrewangi tamu jero ngrencanakake kunjungan dheweke kabeh.
+Yes, the swimming pool at Hotel Student Park is located on the hotel rooftop which directly provides a view of Yogyakarta City.	Enggeh, kolam renang ing Hotel Student Park dumunung ing rooftop hotel sing langsung menehi pemandangan Kota Yogyakarta.
+You can book a hotel room in Yogyakarta by contacting the hotel directly or using booking websites like Traveloka or Tiket.com.	Sampeyan bisa nggawe pemesanan kamar hotel ing Yogyakarta nganggo njaluk langsung hotel utawa nganggo situs web pemesanan kaya Traveloka utawa Tiket.com.
+For the hospitality industry, tourism is an important segment that contributes significantly to hotel and local economy income.	Kanggo industri rumah sakit, pariwisata minangka segmen penting sing menehi kontribusi kanggo penghasilan ekonomi lokal.
+Some hotels suitable for family holidays in Bali include hard rock hotels in Bali, Bali Dynasty Resort, and Grand Mirage Resort.	Sawetara hotel sing cocog kanggo preian kulawarga ing Bali kalebu Hard Rock Hotel di Bali, Bali Dinasti Resort, lan Grand Mirage Resort.
+Rooms at Purnama Hotel are equipped with air conditioning that can be arranged in temperature according to the wishes of guests.	Kamar ing Hotel Purnama dilengkapi karo udhara udhara sing bisa diatur suhu miturut kekarepan para tamu.
+UM student dormnitory have a security comitee that will make a dormnitory a safe place and keeping close time according the rule.	Asrama UM duwe administrator keamanan sing njamin keamanan asrama lan jam tutup asrama tundhuk karo peraturan.
+You can contact our reception desk, and they will assist you in booking a taxi or provide information about local transportation.	Sampeyan bisa ngontak resepsionis kita, lan padha bakal nglempar sampeyan nggawe pesenan taksi utawa nyedhiyakake informasi babagan transportasi lokal.
+Several hotels in Indonesia are located directly on the beach, providing easy access to activities such as surfing and snorkeling.	pira-pira hotel ing indonesia papan langsung ing pantai, menehake akses gampang menyang aktivitas kaya selancar lan snorkeling.
+The facilities offered by this hotel include a swimming pool, a restaurant, a fitness center, and free Wi-Fi throughout the hotel.	Fasilitas sing ditawani dening hotel iki kalebu kolam renang, restoran, pusat kebugaran, lan akses Wi-Fi gratis ing kabeh wilayah hotel.
+With beautiful architecture and swimming pool floating off the coast, Ayana Komodo Resort is a luxurious destination in Labuan Bajo.	apa kang nggawe ayana komodo resort ing labuan bajo dadi papan tujuwan berlibur?
+The hotel is located in the city center, so guests can easily reach major attractions, restaurants and entertainment venues on foot.	Hotel iki dumunung ing tengah kutha, saéngga para tamu bisa kanthi gampang nyedhaki atraksi utama, restoran lan papan hiburan kanthi mlaku.
+The price range offered has been adjusted to ensure quality consumption is provided to guests both at the lowest and highest prices.	Rega sing ditawakake wis diatur kanggo mesthekake konsumsi kualitas sing cocog marang tamu kanthi rega sing paling murah lan paling dhuwur
+Check-in time usually starts at 2:00 PM, and check-out time is at 12:00 PM. However, this policy can vary from one hotel to another.	Waktu check-in biasane dimulai jam 14:00, lan waktu check-out yaiku jam 12:00. Nanging, kebijakan iki bisa beda antar hotel.
+The nearest hotel to Taman Mini Indonesia Indah in Jakarta is Hotel Aryaduta Lippo Village, which is only a few minutes' drive away.	Hotel kanggo sajeroning Taman Mini Indonesia Indah ing Jakarta yaiku Hotel Aryaduta Lippo Village sing ana ing deket sedikit menit ngemprak.
+These hotels often provide recreational facilities such as swimming pools, spas, and restaurants with local and international dishes.	hotel-hotel iki asring nyedyakake fasilitas rekreasi kaya kolam-renang, spa, lan restoran karo hidangan lokal lan internasiyonal.
+Our restaurant offers a selection of specialty dishes that reflect local flavors and use fresh ingredients from the surrounding area.	restoran iki nawakake pilihan panganan mlingi kang nyerminake cita raos lokal lan migunake bahan-bahan seger saka laladan sawetara
+Some famous five -star hotels in Bali include Ayana Resort and Spa, Four Seasons Resort Bali at Sayan, and The St. Regis Bali Resort.	Sawetara hotel paling misuwur ing Bali kalebu Ayana Resort lan Spa, Four Seasons Resort Bali ing Sayan, lan St. Regis bali resort.
+Family-friendly hotels in Jakarta include star-rated hotels with family facilities such as children's swimming pools and kids' clubs.	Hotel kanggo sajeroning anak ing Jakarta kalebu hotel sing duwe fasilitas kanggo keluarga kaya kolam renang kanggo bocah lan klub bocah-bocah.
+You can find hotels in the city center of Bandung by using booking websites or searching for hotels on main streets like Jalan Braga.	Sampeyan bisa nggoleki hotel ing tengah kota Bandung nganggo situs web pemesanan utawa nggoleki hotel ing jalan-jalan utama kaya Jalan Braga.
+The hotel's parking policy is usually available on their website or at the time of check-in. Typically, there is a daily parking fee.	Kebijakan parkir hotel biasane dideleng ing situs web resmi sampeyan utawa nalika sampeyan check-in. Biasane ongkos parkir saben dina.
+Hotels in Malang usually provide additional services such as airport shuttle services, 24-hour room services, and local tourism tours.	Hotel ing Malang biasane nyedhiyakake layanan tambahan kayata layanan anter jemput bandara, layanan ruangan ruangan 24 jam, lan turis pariwisata lokal.
+You only need to show your identity. Some hotels also ask for a deposit during your stay and show proof of marriage for sharia hotels.	Sampeyan mung kudu nuduhake identitas sampeyan. Sawetara hotel uga njaluk simpenan nalika sampeyan nginep lan nuduhake bukti nikah kanggo hotel syariah.
+Choice of Cheese Burger Foods, Fried Chicken Wings Choice of Ice Black Coffee Drinks, Ice Coffee Latte, Soft Drink and Includes Towels	Pilihan panganan keju burger, pilihan ayam goreng goreng ice minuman kopi ireng, latte kopi ireng, minuman kopi, minuman alus lan kalebu andhuk
+Facilities offered by hotels in Bali usually include swimming pools, restaurants, room services, Wi-Fi access, and concierge services.	Fasilitas sing ditawakake hotel ing Bali biasane kalebu kolam renang, restoran, layanan kamar, akses Wi-Fi, lan layanan concierge.
+To find hotels close to popular tourist attractions such as Tanah Lot or Tirta Empul, use location search features on travel websites.	Kanggo nemokake hotel sing cedhak karo wisata wisata sing populer kayata Tanah Lot utawa TIRTA CHINT, gunakake fitur telusuran lokasi ing situs web travel.
+UM Dormitory facilities have parking, minimart, bathroom, washing and drying area, prayer room, hall, kitchen, playing field and lobby.	Fasilitas Asrama UM duwe parkir, minimarket, jemuran, jedhing, mushola, aula, pawon, lapangan dolanan lan lobi.
+The hotel's facilities include a cafe with both indoor and outdoor seating allowing guests to adjust their comfort as much as possible.	Fasilitas hotel duwe kafe kanthi lenggahan njero lan njobo ben tamune iso sak se nyaman-nyaman e
+InterContinental Jakarta Pondok Indah is located in the heart of South Jakarta's premium business, shopping and entertainment district.	InterContinental Jakarta Pondok Indah dumunung ing jantung distrik bisnis premium, blanja lan hiburan Jakarta Selatan.
+To find a hotel that is suitable for surfers in Bali, consider locations near famous beaches such as Uluwatu, Padang Padang, or Canggu.	Kanggo nemokake hotel sing cocog kanggo para peselancar ing Bali, nimbang lokasi sing cedhak karo pesisir sing misuwur kayata Uluwatu, Padang Padang, utawa Canggu.
+You need to know the cancellation policy of this hotel, which is usually available on their official website or at the time of booking.	Sampeyan kudu ngerti kebijakan pembatalan hotel iki, sing biasane bisa ditemokaké ing situs web resmi sampeyan utawa nalika pemesanan.
+We work closely with local car rental and tour services to ensure guests have a convenient experience in exploring the surrounding area.	Kita kerja bareng karo rental mobil lokal lan layanan tur kanggo mesthekake tamu duwe pengalaman nyaman ing njelajah wilayah watara hotel.
+In-Room Dining is a service at a hotel that allows guests to order food and drinks from the restaurant menu to be enjoyed in their rooms.	Mangan ing kamar minangka layanan ing hotel sing ngidini tamu supaya bisa menehi panganan lan ombenan saka menu restoran kanggo disenengi ing kamar.
+There are eight dormitories at Malang State University, namely Soka, Lily, Dahlia, Tulip, Edelwis, Aster, Matahari and Mawar dormitories.	Asrama ing Universitas Negeri Malang ana wolu, yaiku asrama Soka, Lily, Dahlia, Tulip, Edelwis, Aster, Matahari lan Mawar.
+Many tourists choose tourism hotels in Indonesia to celebrate special events such as weddings, family holidays, or cultural celebrations.	akeh wisatawan milih hotel pariwisata ing indonesia kanggo ngrayakake prastawa mligi kaya ningkahan, liburan kulawarga, utawa perayaan budaya.
+The hotel has strict emergency procedures and staff training to deal with a variety of emergency situations, including natural disasters.	hotel iki nduweni prosedur darurat kang ketat lan gladen staf kanggo ngatasi sawetara kahanan darurat kalebu bencana alam
+You can get access to executive lounges by ordering executive rooms or by getting certain membership status in the hotel loyalty program.	Sampeyan bisa entuk akses menyang lounge eksekutif kanthi mrentah ing kamar eksekutif utawa kanthi entuk status keanggotaan tartamtu ing program Kesetiaan Hotel.
+Resort in Bali is popular because of its natural beauty, hospitality of local residents, and a variety of recreational activities offered.	Resort ing Bali populer amarga kaendahan alam, kepinteran warga lokal, lan macem-macem kegiatan rekreasi sing ditawakake.
+Compliance with regulations and legislation is important because it can protect the hotel from legal issues and maintain their reputation.	Selaras karo peraturan lan undang-undang penting amarga bisa nglindhungi hotel kasebut saka masalah hukum lan njaga reputasi kasebut.
+The policy of cancellation and refund can vary between hotels in Malang. It is recommended to confirm the policy when making a reservation.	Kebijakan pembatalan lan mbalek maneh bisa beda-beda ing antarane hotel ing Malang. Apike kanggo konfirmasi kabijakan kasebut nalika nggawe leladen.
+Tourism hotels in Indonesia are often located in strategic locations, close to famous natural, historical and cultural tourist attractions.	hotel pariwisata ing indonesia asring papan ing lokasi strategis, cedhak karo lesan wisata alam, sajarah, lan budaya kang kondhang.
+Our swimming pools are equipped with supervisory staff and security facilities to ensure the safety of swimming guests, including children.	kolam renang dijangkepi karo staf pengawas lan fasikitas kaamanan kanggo mastekake keslamatan tamu kang nglangi kalembu bocah-bocah
+Because the design has creative and unique elements that reflect the character of the region, so guests can experience a unique experience.	amarga desain nduweni elemen kreatif kang nyerminake karakter laladan saengga tamu oleh ngerasakake pengamanan kang iunik
+During Pandemi, make sure your hotel follows a strict health and hygiene protocol. Check the policy of cancellation and booking flexibility.	Sajrone Pandemi, priksa manawa hotel sampeyan ngetutake protokol kesehatan lan higienis sing ketat. Priksa kabijakan pembatalan lan keluwesan pesenan.
+Hotels prices in Bali tend to rise during the holiday season such as Christmas and New Year. Prices can also be lower during the quiet season.	Harga hotel ing Bali cenderung munggah sajrone musim liburan kayata Natal lan Taun Anyar. Rega uga bisa luwih murah nalika musim sepi.
+Grand Dafam Q Hotel is a hotel that is integrated with Q Mall Banjarbaru, visitors only need to get off the lobby area to enter the mall area.	Hotel Grand Dafam Q Hotel minangka hotel sing terpadu karo Q Mall Banjarbaru, para pengunjung mung kudu nyingkirake wilayah lobi kanggo mlebu ing wilayah Mall.
+When choosing accommodation near the beach in Bali, make sure you consider the distance from the beach, facilities and views of the desired sea.	Nalika milih akomodasi ing pantai ing Bali, priksa manawa sampeyan nimbang jarak saka pantai, fasilitas lan tampilan segara sing dikarepake.
+Tourism guests usually look for accommodation in accordance with their budget and preferences, such as star hotels, resorts, villas, or hostels.	Tamu pariwisata biasane golek akomodasi sesuai karo anggaran lan pilihan, kayata Hotel, Langkawi, Langkawi Disambung, Villa, utawa Hostels.
+Yes, most hotels in Malang have meeting rooms and facilities for conferences with various capacities to support business activities and meetings.	Enggeh, umume hotel ing Malang duwe kamar rapat lan fasilitas kanggo konferensi kanthi macem-macem kapasitas kanggo ndhukung kegiatan bisnis lan rapat.
+The hotel building has a strong structure and is designed by experts who have considered various precautions for possible disasters or accidents.	Bangunan hotel nduweni struktur sing kuwat lan dirancang dening para ahli sing wis ngetrapake macem-macem pancegahan kanggo kemungkinan bencana utawa kacilakan.
+You can order accommodation in Bali online through various travel websites, online travel agents, or directly through the official hotel website.	Sampeyan bisa order kanggo akomodasi ing Bali online liwat macem-macem situs web perjalanan, agen perjalanan online, utawa langsung liwat situs web hotel resmi.
+Tourism hotels in Indonesia often implement environmentally friendly practices to support the sustainability of the surrounding nature and culture.	hotel pariwisata ing indonesia asring mlakokake praktek grapyak lingkungan kanggo nyengkuyung keberlanjutan alam lan budaya ing sawatarane.
+The difference between private villas and hotels in Bali is that villas usually offer higher privacy and private facilities such as swimming pools.	Bentenane antarane villa pribadi lan hotel ing Bali yaiku villa biasane menehi fasilitas privasi sing luwih dhuwur kayata kolam renang.
+Yes there is, there is the Nurul Jannah Mosque on the 4th floor of the mall which is connected directly with the Ballroom Grand Dafam Q Hotel door.	Ya ana, ana Masjid Nurul Jannah ing lantai 4 saka mall sing disambung langsung karo lawang ballroom Grand Dafam Q Hotel.
+Hotels often offer a variety of tourism services and facilities, including tourism tours, vehicle rental, and recommendations for local activities.	Hotel asring nawakake macem-macem layanan lan fasilitas, kalebu turisme pariwisata, sewa kendaraan, lan rekomendasi kanggo kegiatan lokal.
+The hotel is very famous for its excellent service and various satisfying facilities making it align with the price required for such an experience.	Hotel iki misuwur banget amarga layanan sing apik karo macem-macem fasilitas sing marem supaya regane cocok kanggo ngentukno pengalaman iki
+I really like the standard room type King, because my husband and I are very sufficient with one large mattress with prices ranging from 500 thousand	Aku seneng banget karo jinis room King standar, amarga bojoku lan aku cekap karo kasur gedhe kanthi rega wiwit 500 ewu
+To find environmentally friendly hotels in Bali, look for environmentally friendly certifications or resorts that are active in sustainable practice.	Kanggo nemokake hotel sing ramah lingkungan di Bali, goleki sertifikasi utawa resor lingkungan sing aktif ing praktik sustainable.
+for extendingg the contract, we can contact Pengurus Rumah Tangga Asrama (PRTA), then for another business we can contact asrama divisionn headquarter	Kanggo nambah wektu nginep, saben taun bisa ngubungi Pengurus Asrama (PRTA), ing njaba bisa langsung hubungi Kantor Divisi Asrama.
+Our hotel provides services for guests celebrating certain religious or cultural celebrations, such as providing special food or facilities for prayer.	hotel iki nduwenni layanan kabutuhan tamu kang ngerayakake perayaan agama raos budaya tinemtu, kaya nyediake panganan mlingi utawa fasilitas kanggo ndunga
+Some expenses beyond the room rental fee are using consumption facilities, fees for damages to hotel facilities and penalties for breaking hotel rules.	Sawetara perkara sing bisa entuk dhuwit kajaba biaya sewa kalebu fasilitas konsumsi, ganti rugi kanggo karusakan fasilitas hotel lan denda amarga nglanggar aturan hotel.
+Concierge is a hotel staff who are ready to assist guests in planning activities outside the hotel, such as restaurant bookings or performance tickets.	Concierge minangka staf hotel sing siap mbantu para tamu ing kegiatan ngrencanakake ing njaba hotel, kayata pesenan restoran utawa karcis kinerja.
+When ordering luxury accommodation in Bali, pay attention to exclusive facilities such as butler services, private spas, and access to private beaches.	Nalika mrentahake akomodasi mewah ing Bali, elinga fasilitas eksklusif kayata layanan butler, spas butler, spas pribadi, lan akses menyang pesisir pribadi.
+For guests staying longer, we offer a special program of activities or experiences such as cooking courses, language courses or local exploration trips.	kanggo tamu kang ginep jero jangka wayah kang luwih suwi kita nawakake program kegiyatan utawa pengalaman mlingi kaya kursus masak, kursus basa, utawa perjalanan eksplorasi laladan sawetara
+There are 3 wedding packages at Solaris Hotel: Orchid Package Rp. 27,000,000 Net Tulip Package Rp. 32,000,000 Net Casablanca Package Rp. 38,000,000 Nett	Ana 3 paket kawinan ing Solar Hotel Solaris: Paket Orchid. 27.000.000 paket tulip 272.000 32.000.000 rp casablanca net. 38,000.000 Nett
+Turndown service is a service where hotel staff prepares rooms to sleep guests by lowering blankets, turning on the lighting light, and preparing snacks.	Layanan turndown minangka layanan ing ngendi staf hotel nyiyapake kamar kanggo turu tamu kanthi ngedhunake kemul, ngowahi cahya cahEnggeh, lan nyiapake jajanan.
+Hotel Coordination Meeting is a routine meeting between various hotel departments to talk about operational problems and improvements that may be needed.	Rapat koordinasi hotel minangka rapat rutin ing antarane macem-macem departemen hotel kanggo ngobrol babagan masalah operasional lan dandan sing dibutuhake.
+The cost of staying in a five-star hotel in Jakarta varies depending on the hotel, but it generally ranges from 1 to 2 million Indonesian Rupiah per night.	Biaya nginep ing hotel bintang lima ing Jakarta beda-beda sajeroning hotel, nanging rata-rata antara 1 sawetara 2 yuta rupiah saben dina.
+The weather in Bali can affect hotel selection. The rainy season usually lasts from November to March, so if you want to avoid rain, consider the dry season.	Cuaca ing Bali bisa mengaruhi pilihan hotel. Musim udan biasane umure wiwit wulan Nopémber nganti Maret, dadi yen sampeyan pengin udan, nimbang musim garing.
+Item storage will be accepted by the receptionist when you are registered as a hotel guest but there are size and weight limitations that need to be observed.	Resepsionis bakal nampa panyimpenan bagasi nalika sampeyan ndhaptar minangka tamu hotel nanging mesthi ana watesan ukuran lan bobot sing kudu digatekake.
+Our hotel has a strategic location that provides easy access to nature and the natural beauty of the surroundings, perfect for guests who want to explore nature.	hotel iki nduweni lokasi strategis kang menehake akses gampang menyang alam lan kaendahan alam sawaterane cocok kanggo wong kang pingin menjelajahi alam
+You can search for hotels with private swimming pools in Bali by searching for accommodation types such as villas or suite with private swimming pool facilities.	Sampeyan bisa nggoleki hotel kolam renang pribadi ing Bali kanthi nggoleki jinis akomodasi kayata villa utawa suite karo fasilitas kolam renang pribadi.
+For room cleanliness, it is the personal responsibility of the room occupants, the rest of the maintenance of cleanliness is assisted by the hostel cleaning staff.	Tumrap karesikan kamar menika dados tanggel jawab pribadhi para penghuni kamar, sanesipun njagi karesikan menika dipunbiyantu dening petugas kebersihan asrama.
+Five -star hotels in Malang offer high guest service standards, including concierge services, room waiters, luxury restaurants, and various recreational facilities.	Lima -star hotel ing Malang nawakake standar layanan tamu sing dhuwur, kalebu layanan concierge, plancongan ruangan, restoran mewah, lan macem-macem fasilitas rekreasi, lan macem-macem fasilitas rekreasi.
+Facilities available at tourist hotels usually include restaurants with typical Indonesian menus, swimming pools, traditional spas, and various cultural activities.	fasilitas kang ana ing hotel pariwisata biyasane nyakup restoran karo menu kas indonesia, kolam-renang, spa tradhisional, sarta sawetara aktivitas budaya.
+Guest database management is the process of gathering, storing, and maintaining guest contact information for marketing purposes and customer relationship management.	Manajemen Database Tamu minangka proses kumpul, nyimpen, lan njaga informasi kontak tamu lan manajemen hubungan pelanggan.
+The concept of "All-Inclusive" is an offer where guests pay a fixed price to stay at the hotel and can enjoy food and drinks without additional costs during their stay.	Konsep "kabeh kalebu" minangka tawaran ing ngendi tamu mbayar rega tetep kanggo tetep ing hotel lan bisa nyenengake panganan lan omben-omben tanpa biaya tambahan nalika tetep.
+Rooms in UM dormitories have lighting facilities, wardrobe sockets, beds and mattresses, study tables and chairs, clothes hangers, shoe racks, trash cans and towel hangers.	Kamar ing asrama UM nduweni fasilitas lampu, soket, lemari, dengklek lan kasur, meja lan kursi sinau, gantungan klambi, rak sepatu, tong sampah lan gantungan handuk.
+There are several types of rooms at Golden Tulip Holland Resort Batu, such as: Deluxe King, Deluxe Twin, Premier Twin, Premier King, Golden Suite, Royal Suite, President Suite	Ana sawetara jinis kamar ing Golden Tulip Holland Resort Batu, kayata: Deluxe King, Deluxe Twin, Premier Twin, Premier King, Golden Suite, Royal Suite, President Suite.
+When choosing a hotel in Kuta, Seminyak, or Ubud, pay attention to your vacation style; Kuta is suitable for nightlife, seminak for luxurious lifestyles, and ubud for culture and art.	Nalika milih hotel ing Kuta, Seminyak, utawa Ubud, pay manungsa waé kanggo gaya liburan sampeyan; Kuta cocog kanggo wengi, seminak kanggo gaya urip mewah, lan Ubud kanggo budaya lan seni.
+Unfortunately the hotel does not yet have outdoor sports facilities but the hotel's private park can be used for activities like running or exercise as long didn't violate hotel rules.	Sayange hotel iki ora duwe area olahraga nanging taman pribadi hotel bisa digunakake kanggo mlaku utawa senam anggere ora nglanggar peraturan hotel.
+You can search for the best hotels at affordable prices in Bali through price comparison websites such as Booking.com, Agoda, or Airbnb. You can also find special offers or vacation packages.	Sampeyan bisa nggoleki hotel paling apik kanthi rega sing terjangkau ing Bali liwat rega perusahaan perbandingan kayata Booking.com, Agoda, utawa AirBnB. Sampeyan uga bisa nemokake tawaran khusus utawa paket liburan.
+Yes, some hotels in Malang have adopted environmentally friendly practices, such as renewable energy use, waste recycling, and the use of environmentally friendly materials in daily construction and operations.	Enggeh, sawetara hotel ing Malang wis nggunakake praktik sing ramah lingkungan, kayata panggunaan energi sing bisa dianyari, daur ulang sampah, lan panggunaan bahan sing ramah lingkungan ing konstruksi lan operasi saben dina.
+Local students can live in the Soka, Lily, Dahlia, Tulip, Matahari Mawar dormitories with an annual rental price of IDR 4,125,000 for the first floor, IDR 4,000,000 for the second floor, IDR 3,875,000 for the third floor, IDR 3,750,000 for fourth floor.	Mahasiswa lokal iso manggon ing asrama Soka, Lily, Dahlia, Tulip, Matahari Mawar kanthi rega sewa tahunan Rp 4.125.000 kanggo lantai siji, Rp 4.000.000 kanggo lantai loro, Rp 3.875.000 kanggo lantai telu, Rp 3.750.000 kanggo lantai papat.
+The swimming pool is located in the free outdoor wi -fi available in the lobby of food order services from inside the pool room outdoor room of the letter & electricity information - 220 v aromatherapy and massage aid for travel and travel vehicle rental	Kolam renang ana ing wi -fi ruangan gratis sing kasedhiya ing lobi layanan pesenan panganan saka njero ruangan ruangan ruangan layang & intricity - 220 v AROMATHERAPY lan Pijet Aromaterapi kanggo lelungan kendharaan lan lelungan
+D'Pine Restaurant offers a variety of local and international choices as well as Live Cooking Buffet. Enjoy a variety of dishes including desperate desserts and cakes, as well as coffee and tea in a large location. Open from 07.00 am until 11.00 at night. Blu Bar	D'Pine Restaurant nawakake macem-macem pilihan lokal lan internasional uga urip masak buffet langsung. Seneng macem-macem sajian kalebu panganan cuci mulut lan kuert, uga kopi lan teh ing lokasi sing gedhe. Bukak saka 07.00 AM nganti 11.00 ing wayah wengi. Blu bar
+For residents of dormitories with annual rentals, students can register through the Malang State University Student Dormitory Housekeeper (PRTA), for further information via the website dorm.um.ac.id. For non-annual rentals, please contact the Dormitory Division Office directly.	Kanggo warga asrama sing duwe sewa taunan, mahasiswa bisa ndhaptar liwat Pengurus Rumah Tangga Asrama Mahasiswa (PRTA) Universitas Negeri Malang, kanggo informasi luwih lengkap liwat website dorm.um.ac.id. Kanggo rental non-taunan, hubungi Kantor Divisi Asrama langsung.
+Comfortable bed, comfortable bathroom with shower, air conditioning, 32 "flat screen television with interactive satellite tv system, free high-speed wi-fi internet access, complete mini bar & pendigin cabinets, safe boxes in rooms, telephone systems with channels IDD, Hair Dryer, Cleo Pure Water Tea and Coffee Making Machine	Kamar mandi sing nyaman, kamar mandi sing nyaman karo kamar mancing, 32 "televisi layar sing rata-rata, kothak mini-fire, kothak sing aman ing kamar, sistem telpon kanthi saluran nganggo saluran, Pengering rambut, cleo banyu teh lan mesin mesin murni
